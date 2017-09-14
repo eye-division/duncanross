@@ -5,15 +5,19 @@
 .navigation {
     margin: 0;
     //@include outer-container;
-    padding: 0 1em;
+
+}
+.banner {
     background-color: $black;
     color: $white;
+    padding: 1em;
 }
 // Nav menu
 .navigation-wrapper {
-    //@include outer-container;
+    @include outer-container;
     @include clearfix;
     position: relative;
+
 }
 
 // logo
@@ -29,6 +33,10 @@
     h1 {
         margin-bottom: 0;
         color: $white;
+        font-weight: normal;
+    }
+    .subtitle {
+        color: #f7a476;
     }
     &:active,
     &:focus,
@@ -60,7 +68,7 @@ nav {
     float: none;
     padding: 1.25em 0;
     @include media ($tablet) {
-        float: right;
+        text-align: center;
         line-height: 1.5em;
     }
 }

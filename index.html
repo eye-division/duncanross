@@ -1,9 +1,41 @@
 ---
 layout: page
-main_image_path: /assets/images/homepageimage.jpg
-image_caption: "Family, lithograph, 37cm x 46cm"
+main_image_path:
+image_caption:
+carousel:
+  - image: /assets/images/4b1e6c531a6d5.jpg
+    caption: Research
+    link: /research/
+  - image: /assets/images/4b124c942364d.jpg
+    caption: Practice and governance
+    link: /practice-and-governance/
+
 ---
   <div class="page">
+		{% if page.carousel %}
+      <!-- <div class="two-thirds no-gutter"> -->
+
+        <div class="flexslider">
+          <ul class="slides">
+            {% for slides in page.carousel %}
+            <li>
+              {% if slides.link %}
+              <a href="{{ site.baseurl }}{{ slides.link }}" title="View project">
+              {% endif %}
+              {% include img.html src=slides.image width=960 height=508 %}
+              {% if slides.link %}
+              </a>
+            {% endif %}
+              {% if slides.caption %}
+              <p class="flex-caption">{% if slides.link %}<a href="{{ site.baseurl }}{{ slides.link }}" title="View project">{% endif %}{{ slides.caption }}{% if slides.link %}&nbsp;<svg class="icon icon__white icon--readmore"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-double_angle_right" /></svg></a>{% endif %}</p>
+              {% endif %}
+            </li>
+            {% endfor %}
+          </ul>
+        </div>
+
+      <!-- </div> -->
+      {% endif %}
 
     <div class="intro editable">
     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minus, in magnam placeat. Ex illo ipsa libero voluptatem necessitatibus modi fugit odit omnis. Sequi voluptatem mollitia voluptatum ipsum placeat, quaerat laudantium!</p>

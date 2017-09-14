@@ -1,5 +1,5 @@
 <header class="navigation" role="banner">
-  <div class="navigation-wrapper">
+  <div class="banner">
     <a href="{{ site.baseurl }}/" class="logo">
       {% if site.logo %}
       <img src="{{ site.logo | prepend: site.baseurl }}" alt="{{ site.title }}">
@@ -8,6 +8,9 @@
       <div class="subtitle">{{ site.subtitle }}</div>
       {% endif %}
     </a>
+  </div>
+    <div class="navigation-wrapper">
+
     <a href="javascript:void(0)" class="navigation-menu-button" id="js-mobile-menu">
       <svg class="icon"><use xlink:href="#icon-reorder" /></svg>
     </a>

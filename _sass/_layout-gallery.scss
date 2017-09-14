@@ -42,17 +42,17 @@
     padding-bottom: 1em;
     text-align: center;
     @include media ($tablet) {
-        //@include span-columns(4);
+        @include span-columns(4);
     }
 }
 .gallery-box-home {
     @include media ($tablet) {
-        //@include span-columns(6);
+        @include span-columns(6);
     }
 }
 .last {
     @include media ($tablet) {
-        //@include omega();
+        @include omega();
     }
 }
 

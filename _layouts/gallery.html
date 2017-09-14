@@ -18,11 +18,10 @@ layout: default
     {% for image in page.images %}
       {% if image.image_path %}
       <div class="gallery-box {% cycle 'alpha', '', 'last' %}">
-          {% include img.html src=image.image_path alt=image.image_description %}
+        <a href="{% include imgpath.html src=image.image_path width=1280 %}" class="galleryphoto" data-lightbox="gallery" data-title="{{ image.image_title }} - {{ image.image_description }}">
+          {% include img.html src=image.image_path width=200 height=200 fit=crop alt=image.image_description %}
+        </a>
         <caption>{{ image.image_title }}</caption>
-        {% if image.image_description %}
-          <p>{{ image.image_description }}</p>
-        {% endif %}
       </div>
       {% endif %}
     {% endfor %}
