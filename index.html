@@ -4,12 +4,23 @@ main_image_path:
 image_caption:
 carousel:
   - image: /assets/images/4b1e6c531a6d5.jpg
-    caption: Research
-    link: /research/
-  - image: /assets/images/4b124c942364d.jpg
-    caption: Practice and governance
-    link: /practice-and-governance/
-
+    caption:
+    link:
+  - image: /assets/images/4b124cc2e32d5.jpg
+    caption:
+    link:
+  - image: /assets/images/4b124d0100ed0.jpg
+    caption:
+    link:
+  - image: /assets/images/4d07ac565d8c4.jpg
+    caption:
+    link:
+  - image: /assets/images/501a96af3c5d4.jpg
+    caption:
+    link:
+  - image: /assets/images/503653c15b3b3.jpg
+    caption:
+    link:
 ---
   <div class="page">
 		{% if page.carousel %}
@@ -22,7 +33,7 @@ carousel:
               {% if slides.link %}
               <a href="{{ site.baseurl }}{{ slides.link }}" title="View project">
               {% endif %}
-              {% include img.html src=slides.image width=960 height=508 %}
+              {% include img.html src=slides.image width=960 alt=slides.caption %}
               {% if slides.link %}
               </a>
             {% endif %}
@@ -38,6 +49,6 @@ carousel:
       {% endif %}
 
     <div class="intro editable">
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minus, in magnam placeat. Ex illo ipsa libero voluptatem necessitatibus modi fugit odit omnis. Sequi voluptatem mollitia voluptatum ipsum placeat, quaerat laudantium!</p>
+    <p></p>
     </div>
   </div>
