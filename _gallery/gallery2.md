@@ -9,9 +9,10 @@ main_image_path: /assets/images/58776b0d43287.jpg
 images:
   - image_path: /assets/images/58776b0d43287.jpg
     image_title: Terra-sigillata Bowl
-    image_description: >-
-      Height: 15 cm 2016 New Piece for Ceramic Art London, 2017 available now:
-      Price 700.00 GBP
+    image_description: 'Height: 15 cm 2016'
+  - image_path: /uploads/dr-bowl-1.jpg
+    image_title: DR Bowl 1
+    image_description: 'Small bowl with foot. Height: 13 cm. Price £325.00'
 _options:
   image_path:
     width: 1200
