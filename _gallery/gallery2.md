@@ -1,8 +1,8 @@
 ---
 title: New work
 description_markdown: >-
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;A selection of new work is now
-  available.&nbsp;
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; A
+  selection of new work is now available.&nbsp;
 _gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/new-work/
 main_image_path: /assets/images/58776b0d43287.jpg
