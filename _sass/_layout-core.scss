@@ -380,6 +380,9 @@ figcaption {
         @extend %default-ul;
     }
 }
+.site-copyright {
+    font-size: modular-scale(-2);
+}
 /*
 *   Site Description/Signature (right)
 */
