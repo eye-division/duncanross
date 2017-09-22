@@ -71,6 +71,9 @@ images:
   - image_path: /assets/images/5036535b844ba.jpg
     image_title: DR-Q6
     image_description:
+  - image_path: /assets/images/503654cd2759f.jpg
+    image_title: IMG_0012
+    image_description:
   - image_path: /assets/images/5036537850d7f.jpg
     image_title: DR-Q8
     image_description:
@@ -103,9 +106,6 @@ images:
     image_description:
   - image_path: /assets/images/503655058e78c.jpg
     image_title: IMG_1124
-    image_description:
-  - image_path: /assets/images/503654cd2759f.jpg
-    image_title: IMG_0012
     image_description:
   - image_path: /uploads/img-0047-1.jpg
     image_title:
