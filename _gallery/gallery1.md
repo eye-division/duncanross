@@ -1,5 +1,5 @@
 ---
-title: Gallery
+title: Gallery Archive
 description_markdown:
 _gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/gallery1/
