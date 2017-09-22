@@ -110,10 +110,10 @@ images:
   - image_path: /uploads/img-0047-1.jpg
     image_title:
     image_description:
-  - image_path: /uploads/img-0002.jpg
+  - image_path: /uploads/tilt-bowl.jpg
     image_title:
     image_description:
-  - image_path: /uploads/tilt-bowl.jpg
+  - image_path: /uploads/img-0002.jpg
     image_title:
     image_description:
   - image_path: /uploads/img-0003.jpg
