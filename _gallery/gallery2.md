@@ -1,11 +1,11 @@
 ---
 title: New work
 description_markdown: >-
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; A
-  selection of new work is now available.&nbsp;
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  &nbsp; &nbsp;A selection of new work is now available.&nbsp;
 _gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/new-work/
-main_image_path: /assets/images/58776b0d43287.jpg
+main_image_path:
 images:
   - image_path: /assets/images/58776b0d43287.jpg
     image_title: Terra-sigillata Bowl
@@ -31,5 +31,4 @@ _comments:
   main_image_path: Image used to represent your gallery
   images: Add and edit your gallery images here
   image_description: May only be used in the close up of an image
-
 ---
