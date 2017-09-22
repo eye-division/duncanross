@@ -109,6 +109,7 @@ images:
   - image_path: /assets/images/503654cd2759f.jpg
     image_title: "IMG_0012"
     image_description: ""
+display_title: false
 _options:
   image_path:
     width: 1200

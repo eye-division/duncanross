@@ -19,6 +19,7 @@ _options:
     height: 800
     resize_style: "contain"
     mime_type: "image/jpeg"
+display_title: true
 _comments:
   title: Gallery title
   permalink: Be careful editing this

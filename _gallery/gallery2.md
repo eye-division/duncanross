@@ -13,6 +13,7 @@ images:
   - image_path: /uploads/dr-bowl-1.jpg
     image_title: DR Bowl 1
     image_description: 'Small bowl with foot. Height: 13 cm. Price £325.00'
+display_title: true
 _options:
   image_path:
     width: 1200
@@ -30,4 +31,5 @@ _comments:
   main_image_path: Image used to represent your gallery
   images: Add and edit your gallery images here
   image_description: May only be used in the close up of an image
+
 ---

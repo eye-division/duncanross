@@ -21,7 +21,9 @@ layout: default
         <a href="{% include imgpath.html src=image.image_path max-w=1280 %}" class="galleryphoto" data-lightbox="gallery" data-title="{{ image.image_title }} - {{ image.image_description }}">
           {% include img.html src=image.image_path width=200 height=200 fit=crop alt=image.image_description %}
         </a>
-
+        {% if page.display_title %}
+          <p>{{ image.image_title }}</p>
+        {% endif %}
       </div>
       {% endif %}
     {% endfor %}
