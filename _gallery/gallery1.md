@@ -14,8 +14,8 @@ images:
   - image_path: /assets/images/4b124cab70ae4.jpg
     image_title: 'Vase Form. ''Sun, Moon and Stars'''
     image_description: 21cm
-  - image_path: /uploads/img-0040.jpg
-    image_title: Large bowl form. 'Pictogram'
+  - image_path: /uploads/img-0021.jpg
+    image_title:
     image_description:
   - image_path: /assets/images/4b124d0100ed0.jpg
     image_title: Shallow Dish
@@ -35,9 +35,6 @@ images:
   - image_path: /assets/images/501a970010139.jpg
     image_title: DR/HB32
     image_description:
-  - image_path: /assets/images/501a973a33c9c.jpg
-    image_title: IMG_0438
-    image_description:
   - image_path: /assets/images/501a976edc64b.jpg
     image_title: IMG_0452
     image_description:
@@ -47,14 +44,17 @@ images:
   - image_path: /assets/images/501a97d0d3fc0.jpg
     image_title: IMG_1078
     image_description:
-  - image_path: /assets/images/501a97f2146a3.jpg
-    image_title: IMG_1082
+  - image_path: /assets/images/501a973a33c9c.jpg
+    image_title: IMG_0438
     image_description:
   - image_path: /assets/images/501a987aa8de5.jpg
     image_title: '5678'
     image_description:
-  - image_path: /assets/images/501a9a153d6f4.jpg
+  - image_path: /uploads/img-0047.jpg
     image_title: IMG_0450
+    image_description:
+  - image_path: /assets/images/501a97f2146a3.jpg
+    image_title: IMG_1082
     image_description:
   - image_path: /assets/images/501a9a50eb30c.jpg
     image_title: IMG_1071
@@ -65,7 +65,7 @@ images:
   - image_path: /assets/images/503652cc93fb2.jpg
     image_title: DR-P24
     image_description:
-  - image_path: /assets/images/503652fa76c94.jpg
+  - image_path: /uploads/img-0040-1.jpg
     image_title: DR-P27
     image_description:
   - image_path: /assets/images/5036535b844ba.jpg
@@ -83,14 +83,14 @@ images:
   - image_path: /assets/images/503653e8d5c40.jpg
     image_title: DR/V3
     image_description:
-  - image_path: /assets/images/5036544b098ff.jpg
-    image_title: DR-Q11
-    image_description:
   - image_path: /assets/images/5036542b8b6df.jpg
     image_title: IMG_1947
     image_description:
   - image_path: /assets/images/503653307cef3.jpg
     image_title: IMG_1101
+    image_description:
+  - image_path: /assets/images/5036544b098ff.jpg
+    image_title: DR-Q11
     image_description:
   - image_path: /assets/images/5036546c44dac.jpg
     image_title: IMG_1110
@@ -106,6 +106,24 @@ images:
     image_description:
   - image_path: /assets/images/503654cd2759f.jpg
     image_title: IMG_0012
+    image_description:
+  - image_path: /uploads/img-0047-1.jpg
+    image_title:
+    image_description:
+  - image_path: /uploads/img-0002.jpg
+    image_title:
+    image_description:
+  - image_path: /uploads/tilt-bowl.jpg
+    image_title:
+    image_description:
+  - image_path: /uploads/img-0003.jpg
+    image_title:
+    image_description:
+  - image_path: /uploads/dscf4150.jpg
+    image_title:
+    image_description:
+  - image_path: /uploads/img-0004.jpg
+    image_title:
     image_description:
 display_title: false
 _options:
