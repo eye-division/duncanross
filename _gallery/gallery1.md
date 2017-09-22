@@ -125,6 +125,12 @@ images:
   - image_path: /uploads/img-0004.jpg
     image_title:
     image_description:
+  - image_path: /uploads/img-0006.jpg
+    image_title:
+    image_description:
+  - image_path: /uploads/img-0017.jpg
+    image_title:
+    image_description:
 display_title: false
 _options:
   image_path:
