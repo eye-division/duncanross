@@ -49,7 +49,9 @@
         outline: none;
     }
 }
-
+a.logo h1 {
+    color: $white;
+}
 
 // Mobile view
 .navigation-menu-button {
