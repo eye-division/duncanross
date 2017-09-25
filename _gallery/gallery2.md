@@ -7,25 +7,25 @@ _gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/new-work/
 main_image_path:
 images:
-  - image_path: /uploads/dr-k9.jpg
+  - image_path: /uploads/drk9-1.jpg
     image_title: Terra-sigillata Bowl DR/K9
     image_description: 'Height: 17.5 cm    Price: £850.00'
-  - image_path: /uploads/dr-k3.jpg
+  - image_path: /uploads/drk3.jpg
     image_title: Small bowl with foot DR/K3
     image_description: 'Terra-sigillata Bowl. Height: 12.5 cm.  Price: £380.00'
-  - image_path: /uploads/dr-k5.jpg
-    image_title: Pictogram Image Bowl K5
+  - image_path: /uploads/drk5.jpg
+    image_title: Pictogram Image Bowl DR/K5
     image_description: 'Terra-sigillata Bowl. Height: 18 cm.  Price: £850.00'
-  - image_path: /uploads/dr-k6.jpg
+  - image_path: /uploads/drk6-1.jpg
     image_title: Terra-sigillata Bowl DR/K6
     image_description: 'Height: 16 cm. Price: £600.00'
-  - image_path: /uploads/dr-j2.jpg
+  - image_path: /uploads/drj2.jpg
     image_title: Small Bowl on Foot  DR/J2
     image_description: 'Terra-sigillata Bowl.  Height: 12 cm.  Price: £260.00'
-  - image_path: /uploads/dr-k8.jpg
+  - image_path: /uploads/drk8.jpg
     image_title: Vessel Form. DR/K8
     image_description: 'Terra-sigillata Vessel Form. Height: 18 cm.  Price: £640.00'
-  - image_path: /uploads/dr-h4.jpg
+  - image_path:
     image_title: Small Bowl on Foot. DR/H4
     image_description: 'Terra-sigillata Bowl. Height: 14.5 cm.  Price: £400.00'
 display_title: true
