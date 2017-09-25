@@ -25,9 +25,9 @@ images:
   - image_path: /uploads/drk8.jpg
     image_title: Vessel Form. DR/K8
     image_description: 'Terra-sigillata Vessel Form. Height: 18 cm.  Price: £640.00'
-  - image_path:
+  - image_path: /uploads/drh4-1.jpg
     image_title: Small Bowl on Foot. DR/H4
-    image_description: 'Terra-sigillata Bowl. Height: 14.5 cm.  Price: £400.00'
+    image_description: 'Terra-sigillata Bowl. Height: 14.5 cm. Price £400.00'
 display_title: true
 _options:
   image_path:
