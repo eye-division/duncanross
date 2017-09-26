@@ -16,15 +16,29 @@
         }
       });
     });
-    
+    $(function() {
+      $('#menu__button').on('click touchstart', function(e) {
+        e.preventDefault();
+        $('#menu__container').toggleClass('is-active').removeClass('is-hovered');
+      });
+
+    });
     // Lightbox2 options
     lightbox.option({
       'wrapAround': true
     });
-    
+
     // fitvid on embed
-    $('.media').fitVids();
-    
+    //$('.media').fitVids();
+    $('.flexslider').flexslider({
+      animation: "fade",
+      controlNav: false,
+      directionNav: true,
+      slideshowSpeed: 5000,
+      animationSpeed: 600,
+      touch: true
+    });
+
   });
 
 })(jQuery); // End of use strict

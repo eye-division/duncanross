@@ -7,7 +7,7 @@ exclude:
 
 # Site settings
 title: Duncan Ross
-subtitle: Duncan Ross Eye Gallery built on Bourbon and Neat
+subtitle: Burnished Terra-sigillata ceramics
 name: Duncan Ross
 description: Duncan Ross art gallery
 # Base URL of site (i.e. /blog). It should always start with a slash,
@@ -15,8 +15,8 @@ description: Duncan Ross art gallery
 # root of your server.
 baseurl: ""
 # the base hostname & protocol for your site
-url: "http://http://www.duncanrossceramics.co.uk/"
-logo: "/siteicon.png"
+url: "http://www.duncanrossceramics.co.uk/"
+#logo: "/siteicon.png"
 email: duncanross.ceramics@virgin.net
 
 # Build settings
@@ -28,28 +28,28 @@ permalink: pretty
 
 # Image CDN
 imagecdn:
-  #staging: "http://ed-dev.imgix.net"
-  #production: "http://ed.imgix.net"
+  staging: "https://ed-duncanross-dev.imgix.net"
+  production: "https://ed-duncanross.imgix.net"
 
 # Collections
 collections:
-#     projects:
-#         output: true
-#         permalink: /projects/:path/
-
+    gallery:
+        output: true
+        permalink: /gallery/:path/
+        _hide_content: true
 
 # Defaults Example
 defaults:
-#     -
-#         scope:
-#             path: ""
-#             type: "projects"
-#         values:
-#             layout: "project"
+    -
+        scope:
+            path: ""
+            type: "gallery"
+        values:
+            layout: "gallery"
 
 
 # Google analytics
-# ga_tracking_id: "UA-XXXX-1"
+ga_tracking_id: "UA-16735011-7"
 
 # Google Recaptcha for contact form
 # recaptcha_site_key: 6Ld_UCsUAAAAAOff_4JE6Uq5ZfKicBMZefuoaQsD
