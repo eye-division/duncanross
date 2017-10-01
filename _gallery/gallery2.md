@@ -1,8 +1,8 @@
 ---
 title: New Work
 description_markdown: >-
-  &nbsp;A selection of New Work is now available. If you would like
-  further information please see the [Contact](/contact) page.
+  &nbsp;A selection of New Work is now available. If you would like further
+  information please see the [Contact](/contact) page.
 _gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/new-work/
 main_image_path:
@@ -42,7 +42,7 @@ images:
     image_description: 'DR/K8-2 Alternative view. Height: 18 cm.  Price: £640.00'
   - image_path: /uploads/drh4-1.jpg
     image_title: Small Bowl on Foot. DR/H4
-    image_description: 'Terra-sigillata Bowl. Height: 14.5 cm. Price £400.00'
+    image_description: 'Terra-sigillata Bowl. Height: 14.5 cm. SOLD'
 display_title: true
 _options:
   image_path:
