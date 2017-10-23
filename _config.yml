@@ -15,7 +15,7 @@ description: Duncan Ross art gallery
 # root of your server.
 baseurl: ""
 # the base hostname & protocol for your site
-url: "http://www.duncanrossceramics.co.uk/"
+url: "https://www.duncanrossceramics.co.uk/"
 #logo: "/siteicon.png"
 email: duncanross.ceramics@virgin.net
 
