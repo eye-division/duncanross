@@ -38,16 +38,7 @@
 <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.4.0/highlight.min.js"></script>
 <script src="/js/main.js"></script>
 
-<!-- Start of StatCounter Code -->
-<script type="text/javascript">
-sc_project=185126;
-sc_invisible=1;
-sc_partition=0;
-sc_security="";
-</script>
-<script type="text/javascript" src="http://www.statcounter.com/counter/counter_xhtml.js"></script>
-<noscript><div class="statcounter"><a title="hits counter" class="statcounter" href="http://www.statcounter.com/free_hit_counter.html"><img class="statcounter" src="http://c1.statcounter.com/185126/0//1/" alt="hits counter" /></a></div></noscript>
-<!-- End of StatCounter Code -->
+
 
 {% if site.ga_tracking_id %}
 <!-- Google Analytics -->
@@ -59,7 +50,7 @@ sc_security="";
   ga('create', '{{ site.ga_tracking_id }}', 'auto');
   ga('send', 'pageview', {
     'page': '{{ page.url }}',
-    'title': '{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}'
+    'title': "{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}"
   });
 </script>
 {% endif %}
