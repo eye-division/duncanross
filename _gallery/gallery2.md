@@ -18,7 +18,7 @@ images:
     image_description: 'DR/K9-2  Alternative view. Height: 17.5 cm    Price: £850.00'
   - image_path: /uploads/drk3.jpg
     image_title: Small bowl with foot DR/K3
-    image_description: 'Terra-sigillata BowlDR/K3. Height: 12.5 cm.  Price: SOLD'
+    image_description: 'Terra-sigillata Bowl DR/K3. Height: 12.5 cm.  Price: SOLD'
   - image_path: /uploads/drk5.jpg
     image_title: Pictogram Image Bowl DR/K5
     image_description: 'Terra-sigillata Bowl DR/K5. Height: 18 cm.  Price: £850.00'
