@@ -1,7 +1,7 @@
 ---
 title: New Work
 description_markdown: >-
-  &nbsp;A selection of New Work is now available. If you would like further
+  A selection of New Work will be available soon. If you would like further
   information please see the [Contact](/contact) page.
 
 
