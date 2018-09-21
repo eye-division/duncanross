@@ -1,11 +1,14 @@
 ---
 title: New Work
 description_markdown: >-
-  A selection of New Work will be available soon. If you would like further
-  information please see the [Contact](/contact) page.
+  A selection of New Work is available now.&nbsp; Click the thumbnails for
+  details of each piece.
 
 
-  Click the thumbnails for details of each piece.
+  If you would like further information please see the [Contact](/contact) page.
+
+
+  &nbsp;
 _gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/new-work/
 main_image_path:
@@ -32,3 +35,4 @@ _comments:
   images: Add and edit your gallery images here
   image_description: May only be used in the close up of an image
 ---
+
