@@ -1,20 +1,11 @@
 ---
 title: New Work
-description_markdown: >-
-  &nbsp;A small selection of new pieces is available now.<br>Each group of forms
-  receives a complex surface treatment, sometimes in combination, producing a
-  different feel to the piece each time they are fired. These then suggest how
-  the piece should be treated in it’s final carbon saggar firing.<br>Each carbon
-  firing produces individual results of course and while these pieces have all
-  been completed very recently there is notable variation in colour and the way
-  the carbon has penetrated the surface.
-
+description_markdown: |-
+  &nbsp;A small selection of new pieces is available now.
 
   Click the thumbnails for details of each piece.
 
-
   If you would like further information please see the [Contact](/contact) page.
-
 
   &nbsp;
 _gallery_date: 2016-05-01 00:00:00
