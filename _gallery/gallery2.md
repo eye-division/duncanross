@@ -10,7 +10,7 @@ description_markdown: |-
   &nbsp;
 _gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/new-work/
-main_image_path: /uploads/drl1.jpg
+main_image_path: /uploads/drk7.jpg
 images:
   - image_path: /uploads/drn14.jpg
     image_title: DR/N14
@@ -33,12 +33,6 @@ images:
       Terra-sigillata Vessel Form. Height: 17 cm.
       Price: GBP. £650.00
       Rhythm defines a landscape form.
-  - image_path: /uploads/drl1-1.jpg
-    image_title: DR/L1
-    image_description: |-
-      Terra-sigillata Vessel Form. Height: 19.5 cm.
-      Price: GBP £1200.00
-      Criss-cross Bands weave around the form, with speckled texture.
   - image_path: /uploads/drn4.jpg
     image_title: DR/N4
     image_description: |-
@@ -54,13 +48,13 @@ images:
 display_title: true
 _options:
   image_path:
-    width: 1200
-    height: 1200
+    width: '1200'
+    height: '1200'
     resize_style: contain
     mime_type: image/jpeg
   main_image_path:
-    width: 1200
-    height: 800
+    width: '1200'
+    height: '800'
     resize_style: contain
     mime_type: image/jpeg
 _comments:
