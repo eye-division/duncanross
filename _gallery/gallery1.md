@@ -65,9 +65,6 @@ images:
   - image_path: /assets/images/503652cc93fb2.jpg
     image_title: DR-P24
     image_description:
-  - image_path: /uploads/img-0040-1.jpg
-    image_title: DR-P27
-    image_description:
   - image_path: /assets/images/5036535b844ba.jpg
     image_title: DR-Q6
     image_description:
@@ -134,13 +131,13 @@ images:
 display_title: false
 _options:
   image_path:
-    width: 1200
-    height: 1200
+    width: '1200'
+    height: '1200'
     resize_style: contain
     mime_type: image/jpeg
   main_image_path:
-    width: 1200
-    height: 800
+    width: '1200'
+    height: '800'
     resize_style: contain
     mime_type: image/jpeg
 _comments:
@@ -150,3 +147,4 @@ _comments:
   images: Add and edit your gallery images here
   image_description: May only be used in the close up of an image
 ---
+
