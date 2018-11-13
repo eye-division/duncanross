@@ -1,7 +1,7 @@
 ---
 title: New Work
 description_markdown: |-
-  &nbsp;A small selection of new pieces is available now.
+  &nbsp;A&nbsp; selection of new pieces is available now.
 
   Click the thumbnails for details of each piece.
 
@@ -14,9 +14,8 @@ main_image_path: /uploads/drk7.jpg
 images:
   - image_path: /uploads/drn14.jpg
     image_title: DR/N14
-    image_description: >-
-      DR/N14 Terra-sigillata Vessel Form, Pictogram. Height: 19.5 cm. Price: GBP
-      £950.00
+    image_description: |-
+      DR/N14 Terra-sigillata Vessel Form, Pictogram. Height: 19.5 cm. SOLD
        Fine speckling scattered around the piece, contrasting with the orange. Development of the carbon around the lines.
   - image_path: /uploads/drn13.jpg
     image_title: DR/N13
