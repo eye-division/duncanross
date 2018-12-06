@@ -15,7 +15,7 @@ images:
   - image_path: /uploads/drn14.jpg
     image_title: DR/N14
     image_description: |-
-      DR/N14 Terra-sigillata Vessel Form, Pictogram. Height: 19.5 cm. SOLD
+      SOLD    DR/N14 Terra-sigillata Vessel Form, Pictogram. Height: 19.5 cm. 
        Fine speckling scattered around the piece, contrasting with the orange. Development of the carbon around the lines.
   - image_path: /uploads/drn13.jpg
     image_title: DR/N13
