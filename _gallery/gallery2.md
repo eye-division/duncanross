@@ -1,7 +1,7 @@
 ---
 title: New Work
 description_markdown: |-
-  &nbsp;A&nbsp; selection of new pieces is available now.
+  &nbsp;A&nbsp; selection of new pieces will be available shortly.
 
   Click the thumbnails for details of each piece.
 
@@ -15,14 +15,15 @@ images:
   - image_path: /uploads/drn14.jpg
     image_title: DR/N14
     image_description: |-
-      SOLD    DR/N14 Terra-sigillata Vessel Form, Pictogram. Height: 19.5 cm. 
+      DR/N14 Terra-sigillata Vessel Form, Pictogram. Height: 19.5 cm. 
+      PRICE:  SOLD
        Fine speckling scattered around the piece, contrasting with the orange. Development of the carbon around the lines.
   - image_path: /uploads/drn13.jpg
     image_title: DR/N13
     image_description: >-
       Terra-sigillata Vessel Form. Height: 19 cm. 
 
-      Price: GBP £800.00
+      PRICE:  SOLD
 
       Generous looping lines flow and contrast with oranges and yellows
       balancing the whole form.
@@ -30,7 +31,7 @@ images:
     image_title: DR/K2
     image_description: |-
       Terra-sigillata Vessel Form. Height: 17 cm.
-      Price: GBP. £650.00
+      PRICE:  SOLD
       Rhythm defines a landscape form.
   - image_path: /uploads/drn4.jpg
     image_title: DR/N4
@@ -42,7 +43,7 @@ images:
     image_title: DR/K7
     image_description: |-
       Terra-sigillata Pictogram Form . Height: 18 cm.  
-      Price: GBP £800.00
+      PRICE:   SOLD
       Pictograms add movement to the complex textured surface.
 display_title: true
 _options:
