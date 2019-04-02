@@ -1,7 +1,7 @@
 ---
 title: New Work
 description_markdown: |-
-  &nbsp;A small selection of new pieces is available now.
+  &nbsp;A&nbsp; selection of new pieces will be available shortly.
 
   Click the thumbnails for details of each piece.
 
@@ -10,20 +10,20 @@ description_markdown: |-
   &nbsp;
 _gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/new-work/
-main_image_path: /uploads/drl1.jpg
+main_image_path: /uploads/drk7.jpg
 images:
   - image_path: /uploads/drn14.jpg
     image_title: DR/N14
-    image_description: >-
-      DR/N14 Terra-sigillata Vessel Form, Pictogram. Height: 19.5 cm. Price: GBP
-      £950.00
+    image_description: |-
+      DR/N14 Terra-sigillata Vessel Form, Pictogram. Height: 19.5 cm. 
+      PRICE:  SOLD
        Fine speckling scattered around the piece, contrasting with the orange. Development of the carbon around the lines.
   - image_path: /uploads/drn13.jpg
     image_title: DR/N13
     image_description: >-
       Terra-sigillata Vessel Form. Height: 19 cm. 
 
-      Price: GBP £800.00
+      PRICE:  SOLD
 
       Generous looping lines flow and contrast with oranges and yellows
       balancing the whole form.
@@ -31,14 +31,8 @@ images:
     image_title: DR/K2
     image_description: |-
       Terra-sigillata Vessel Form. Height: 17 cm.
-      Price: GBP. £650.00
+      PRICE:  SOLD
       Rhythm defines a landscape form.
-  - image_path: /uploads/drl1-1.jpg
-    image_title: DR/L1
-    image_description: |-
-      Terra-sigillata Vessel Form. Height: 19.5 cm.
-      Price: GBP £1200.00
-      Criss-cross Bands weave around the form, with speckled texture.
   - image_path: /uploads/drn4.jpg
     image_title: DR/N4
     image_description: |-
@@ -49,18 +43,18 @@ images:
     image_title: DR/K7
     image_description: |-
       Terra-sigillata Pictogram Form . Height: 18 cm.  
-      Price: GBP £800.00
+      PRICE:   SOLD
       Pictograms add movement to the complex textured surface.
 display_title: true
 _options:
   image_path:
-    width: 1200
-    height: 1200
+    width: '1200'
+    height: '1200'
     resize_style: contain
     mime_type: image/jpeg
   main_image_path:
-    width: 1200
-    height: 800
+    width: '1200'
+    height: '800'
     resize_style: contain
     mime_type: image/jpeg
 _comments:
