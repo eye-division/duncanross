@@ -10,14 +10,11 @@ description_markdown: |-
   &nbsp;
 _gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/new-work/
-main_image_path: /uploads/drn4.jpg
+main_image_path:
 images:
-  - image_path: /uploads/drn4.jpg
+  - image_path:
     image_title: DR/N4
-    image_description: |-
-      Terra-sigillata Vessel Form. Height: 19 cm.
-      Price: GBP £800.00
-      Formalised plant forms.
+    image_description:
   - image_path:
     image_title:
     image_description:
