@@ -17,31 +17,36 @@ images:
     image_description: |-
       Terra-sigillata bowl form. Height: 15 cm.
       Price in GBP:  £450.00
+      Single and double stripes.
   - image_path: /uploads/drb.jpg
     image_title: DR/B
     image_description: |-
       Terra-sigillata Vessel Form. Height: 17cm
       Price in GBP:  £590.00
+      Deep smoking around the abstract shapes.
   - image_path: /uploads/drc.jpg
     image_title: DR/C
     image_description: |-
       Terra-sigillata Bowl Form. Height: 14 cm
       Price in GBP: £500.00
+      Paper shapes and stars
   - image_path: /uploads/drd-1.jpg
     image_title: DR/D
     image_description: |-
-      Terra-sigillata Bowl Form. Height: 20 cm.
+      Terra-sigillata Bowl with Pictograms. Height: 20 cm.
       Price in GBP:  £1140.00
   - image_path: /uploads/dre.jpg
     image_title: DR/E
     image_description: |-
       Terra-sigillata Vessel Form. Height: 21 cm.
       Price in GBP: £1070
+      Climbing lines.
   - image_path: /uploads/drf.jpg
     image_title: DR/F
     image_description: |-
       Terra-sigillata Bowl Form. Height: 13 cm
       Price in GBP: £450.00
+      Tilting blocks.
   - image_path: /uploads/drg.jpg
     image_title: DR/G
     image_description: |-
@@ -52,6 +57,7 @@ images:
     image_description: |-
       Terra-sigillata Vessel Form. Height: 18 cm.
       Price in GBP: £750.00
+      Folded lines.
 display_title: true
 _options:
   image_path:
