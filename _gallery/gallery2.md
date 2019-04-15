@@ -1,7 +1,7 @@
 ---
 title: New Work
 description_markdown: |-
-  &nbsp;A&nbsp; selection of new pieces will be available shortly.
+  &nbsp;A&nbsp; selection of new pieces is now available.
 
   Click the thumbnails for details of each piece.
 
@@ -10,23 +10,32 @@ description_markdown: |-
   &nbsp;
 _gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/new-work/
-main_image_path:
+main_image_path: /uploads/dra.jpg
 images:
-  - image_path:
-    image_title: DR/N4
-    image_description:
-  - image_path:
-    image_title:
-    image_description:
-  - image_path:
-    image_title:
-    image_description:
-  - image_path:
-    image_title:
-    image_description:
-  - image_path:
-    image_title:
-    image_description:
+  - image_path: /uploads/dra.jpg
+    image_title: DR/A
+    image_description: Terra-sigillata bowl form.
+  - image_path: /uploads/drb.jpg
+    image_title: DR/B
+    image_description: Terra-sigillata Vessel Form
+  - image_path: /uploads/drc.jpg
+    image_title: DR/C
+    image_description: Terra-sigillata Bowl Form
+  - image_path: /uploads/drd.jpg
+    image_title: DR/D
+    image_description: Terra-sigillata Bowl Form
+  - image_path: /uploads/dre.jpg
+    image_title: DR/E
+    image_description: Terra-sigillata Vessel Form
+  - image_path: /uploads/drf.jpg
+    image_title: DR/F
+    image_description: Terra-sigillata Bowl Form
+  - image_path: /uploads/drg.jpg
+    image_title: DR/G
+    image_description: Terra-sigillata Vessel Form
+  - image_path: /uploads/drh.jpg
+    image_title: DR/H
+    image_description: Terra-sigillata Vessel Form.
 display_title: true
 _options:
   image_path:
