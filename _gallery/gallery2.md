@@ -3,7 +3,7 @@ title: New Work
 description_markdown: |-
   &nbsp;A&nbsp; selection of new pieces is now available.
 
-  Click the thumbnails for details and price for each piece.
+  Click the thumbnails for details and price of each piece.
 
   If you would like further information please see the [Contact](/contact) page.
 
@@ -38,9 +38,9 @@ images:
   - image_path: /uploads/dre.jpg
     image_title: DR/E
     image_description: |-
-      Terra-sigillata Vessel Form. Height: 21 cm.
+      Terra-sigillata Vessel Form. Climbing lines.
+      Height: 21 cm.
       Price in GBP: £1070
-      Climbing lines.
   - image_path: /uploads/drf.jpg
     image_title: DR/F
     image_description: |-
