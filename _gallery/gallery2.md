@@ -3,7 +3,7 @@ title: New Work
 description_markdown: |-
   &nbsp;A&nbsp; selection of new pieces is now available.
 
-  Click the thumbnails for details of each piece.
+  Click the thumbnails for details and price for each piece.
 
   If you would like further information please see the [Contact](/contact) page.
 
