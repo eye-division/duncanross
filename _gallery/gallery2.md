@@ -1,11 +1,9 @@
 ---
 title: New Work
-description_markdown: |-
-  &nbsp;A&nbsp; selection of new pieces is now available.
+description_markdown: >-
+  &nbsp;If you would like further information please see the [Contact](/contact)
+  page.
 
-  Click the thumbnails for details and price of each piece.
-
-  If you would like further information please see the [Contact](/contact) page.
 
   &nbsp;
 _gallery_date: 2016-05-01 00:00:00
