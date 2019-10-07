@@ -12,11 +12,11 @@ description_markdown: >-
   &nbsp;
 _gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/new-work/
-main_image_path:
+main_image_path: /uploads/img-5037.jpg
 images:
-  - image_path:
-    image_title:
-    image_description:
+  - image_path: /uploads/img-5037.jpg
+    image_title: DR/Q7 Terra-sigillata Vessel Form.
+    image_description: 'DR/Q7 Terra-sigillata Vessel Form. Height: 16.5 cm. Price in GBP £720.00'
   - image_path:
     image_title:
     image_description:
