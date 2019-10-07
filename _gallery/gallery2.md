@@ -17,15 +17,19 @@ images:
   - image_path: /uploads/img-5037.jpg
     image_title: DR/Q7 Terra-sigillata Vessel Form.
     image_description: 'DR/Q7 Terra-sigillata Vessel Form. Height: 16.5 cm. Price in GBP £720.00'
-  - image_path:
-    image_title:
-    image_description:
-  - image_path:
-    image_title:
-    image_description:
-  - image_path:
-    image_title:
-    image_description:
+  - image_path: /uploads/img-5038.jpg
+    image_title: DR/Q7  View 2
+    image_description: >-
+      DR/Q7  Alternate view:  Terra-sigillata Vessel Form. Height: 16.5 cm.
+      Price in GBP £720.00
+  - image_path: /uploads/img-5039.jpg
+    image_title: DR/Q8 Terra-sigillata Vessel Form
+    image_description: 'DR/Q8 Terra-sigillata Vessel Form. Height: 16 cm. Price in GBP £680.00'
+  - image_path: /uploads/img-5040.jpg
+    image_title: DR/Q8 Terra-sigillata Vessel Form  View 2.
+    image_description: >-
+      DR/Q8 Terra-sigillata Vessel Form. Alternate View. Height: 16 cm. Price in
+      GBP £680.00
   - image_path:
     image_title:
     image_description:
