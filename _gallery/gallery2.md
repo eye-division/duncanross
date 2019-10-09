@@ -49,9 +49,17 @@ images:
     image_description: |-
       DR/Q4 Terra-sigillata Vessel Form. Height: 14 cm
       GBP: £500.00
-  - image_path: /uploads/img-5051.jpg
+  - image_path: /uploads/img-5044.jpg
     image_title: DR/Q4 View 2
     image_description:
+  - image_path: /uploads/img-5046.jpg
+    image_title: DR/Q10 Small Oval Vessel
+    image_description: |-
+      DR/Q10 Terra-sigllata small oval vessel. Height: 13 cm
+      GBP: £360.00
+  - image_path: /uploads/img-5045.jpg
+    image_title: DR/Q10 View 2
+    image_description: DR/Q10 Small Oval Vessel
 display_title: true
 cols: 2
 _options:
