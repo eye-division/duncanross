@@ -129,6 +129,7 @@ images:
     image_title:
     image_description:
 display_title: false
+cols: 3
 _options:
   image_path:
     width: '1200'
