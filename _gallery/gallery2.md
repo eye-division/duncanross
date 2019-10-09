@@ -45,6 +45,7 @@ images:
     image_title: DR/M10  View 2
     image_description: DR/M10 Terra-sigillata Vessel Form. Alternate View
 display_title: true
+cols: 2 
 _options:
   image_path:
     width: '1200'

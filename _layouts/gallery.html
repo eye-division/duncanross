@@ -17,9 +17,15 @@ layout: default
   <section class="gallery">
     {% for image in page.images %}
       {% if image.image_path %}
-      <div class="gallery-box {% cycle 'alpha', '', 'last' %}">
+      <div class="gallery-box{% if page.cols == 2 %}-large {% cycle 'alpha', 'last' %}{% else %} {%  cycle 'alpha', '', 'last' %}{% endif %}">
         <a href="{% include imgpath.html src=image.image_path max-w=1280 %}" class="galleryphoto" data-lightbox="gallery" data-title="{{ image.image_title }} - {{ image.image_description }}">
-          {% include img.html src=image.image_path width=200 height=200 fit=crop alt=image.image_description %}
+          {% if page.cols %}
+            {% if page.cols == 2 %}
+              {% include img.html src=image.image_path width=400 height=400 fit=crop alt=image.image_description %}
+            {% else %}
+               {% include img.html src=image.image_path width=200 height=200 fit=crop alt=image.image_description %}
+            {% endif %}
+          {% endif %}
         </a>
         {% if page.display_title %}
           <p>{{ image.image_title }}</p>

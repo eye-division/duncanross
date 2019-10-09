@@ -45,6 +45,12 @@
         @include span-columns(4);
     }
 }
+.gallery-box-large {
+    @include media ($tablet) {
+        @include span-columns(6);
+    }
+}
+
 .gallery-box-home {
     @include media ($tablet) {
         @include span-columns(6);
