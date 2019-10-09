@@ -38,9 +38,6 @@ images:
   - image_path: /uploads/img-5042.jpg
     image_title: DR/Q9 View 2
     image_description: DR/Q9 Terra-sigillata Vessel Form Alternate View.
-  - image_path: /uploads/img-5032.jpg
-    image_title: DR/M10 Terra-sigillata Vessel Form
-    image_description: 'DR/M10 Terra-sigillata Vessel Form. Height: 22 cm. Price in GBP: £1160.00'
   - image_path: /uploads/img-5036.jpg
     image_title: DR/M10  View 2
     image_description: DR/M10 Terra-sigillata Vessel Form. Alternate View
