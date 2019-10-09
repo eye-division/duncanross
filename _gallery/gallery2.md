@@ -60,6 +60,14 @@ images:
   - image_path: /uploads/img-5045.jpg
     image_title: DR/Q10 View 2
     image_description: DR/Q10 Small Oval Vessel
+  - image_path: /uploads/img-5052.jpg
+    image_title: DR/Q3 Small Terra-sigillata Bowl
+    image_description: |-
+      DR/Q3    Small Terra-sigillata Bowl  Height:  10.5 cm      
+      GBP: £280.00
+  - image_path: /uploads/img-5054.jpg
+    image_title: DR/Q3 View 2
+    image_description: DR/Q3 View 2
 display_title: true
 cols: 2
 _options:
