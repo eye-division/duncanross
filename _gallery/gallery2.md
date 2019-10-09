@@ -44,8 +44,11 @@ images:
   - image_path: /uploads/img-5036.jpg
     image_title: DR/M10  View 2
     image_description: DR/M10 Terra-sigillata Vessel Form. Alternate View
+  - image_path: /uploads/unnamed.jpg
+    image_title: Side image test
+    image_description:
 display_title: true
-cols: 2 
+cols: 2
 _options:
   image_path:
     width: '1200'
