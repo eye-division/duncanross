@@ -2,7 +2,8 @@
 title: New Work
 description_markdown: >-
   These images are of selected pieces&nbsp; now available from my most recent
-  firings. Please note that there are 2 views of each piece.
+  firings. Please note that there are 2 views of each piece. Open thumbnail for
+  expanded view and details.
 
 
   &nbsp;If you would like further information please see the [Contact](/contact)
@@ -68,10 +69,10 @@ images:
     image_title: DR/Q3 Small Terra-sigillata Bowl
     image_description: |-
       DR/Q3    Small Terra-sigillata Bowl  Height:  10.5 cm      
-      GBP: £280.00 RESERVED
+      GBP: SOLD
   - image_path: /uploads/img-5054.jpg
     image_title: DR/Q3 View 2
-    image_description: DR/Q3 View 2  RESERVED
+    image_description: DR/Q3 View 2  SOLD
 display_title: true
 cols: 2
 _options:
