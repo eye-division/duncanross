@@ -2,7 +2,8 @@
 title: New Work
 description_markdown: >-
   These images are of selected pieces&nbsp; now available from my most recent
-  firings. Please note that there are 2 views of each piece.
+  firings. Please note that there are 2 views of each piece. Open thumbnail for
+  expanded view and details.
 
 
   &nbsp;If you would like further information please see the [Contact](/contact)
