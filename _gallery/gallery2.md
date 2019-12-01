@@ -13,20 +13,8 @@ description_markdown: >-
   &nbsp;
 _gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/new-work/
-main_image_path: /uploads/img-5037.jpg
+main_image_path:
 images:
-  - image_path:
-    image_title:
-    image_description:
-  - image_path:
-    image_title:
-    image_description:
-  - image_path:
-    image_title:
-    image_description:
-  - image_path:
-    image_title:
-    image_description:
   - image_path: /uploads/img-5012.jpg
     image_title: DR/Q9 Terra-sigillata Vessel Form
     image_description: >-
@@ -60,12 +48,6 @@ images:
   - image_path: /uploads/img-5045.jpg
     image_title: DR/Q10 View 2
     image_description: DR/Q10 Small Oval Vessel
-  - image_path:
-    image_title:
-    image_description:
-  - image_path:
-    image_title:
-    image_description:
 display_title: true
 cols: 2
 _options:
