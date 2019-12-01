@@ -30,11 +30,14 @@ images:
   - image_path: /uploads/img-5012.jpg
     image_title: DR/Q9 Terra-sigillata Vessel Form
     image_description: >-
-      DR/Q9  Terra-sigillata  Vessel Form. Height: 20.5 cm. Price in GBP:
-      £890.00
+      DR/Q9  Terra-sigillata  Vessel Form. Height: 20.5 cm. Currently available
+      from the Contemporary Ceramics Centre, London.  info@cpaceramics.com Tel:
+      ‭020 7242 9644‬
   - image_path: /uploads/img-5042.jpg
     image_title: DR/Q9 View 2
-    image_description: DR/Q9 Terra-sigillata Vessel Form Alternate View.
+    image_description: >-
+      DR/Q9 Terra-sigillata Vessel Form Alternate View. See previous image for
+      details.
   - image_path: /uploads/unnamed.jpg
     image_title: DR/M10Terra-sigillata Vessel Form
     image_description: 'DR/M10 Terra-sigillata Vessel Form. Height: 22 cm. Price in GBP: £1160.00'
