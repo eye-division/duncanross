@@ -15,26 +15,18 @@ _gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/new-work/
 main_image_path: /uploads/img-5037.jpg
 images:
-  - image_path: /uploads/img-5037.jpg
-    image_title: DR/Q7 Terra-sigillata Vessel Form.
-    image_description: >-
-      DR/Q7 Terra-sigillata Vessel Form. Height: 16.5 cm. Price in GBP £720.00
-      SOLD
-  - image_path: /uploads/img-5038.jpg
-    image_title: DR/Q7  View 2
-    image_description: >-
-      DR/Q7  Alternate view:  Terra-sigillata Vessel Form. Height: 16.5 cm.
-      Price in GBP £720.00 SOLD
-  - image_path: /uploads/img-5039.jpg
-    image_title: DR/Q8 Terra-sigillata Vessel Form
-    image_description: >-
-      DR/Q8 Terra-sigillata Vessel Form. Height: 16 cm. Price in GBP £680.00
-      SOLD
-  - image_path: /uploads/img-5040.jpg
-    image_title: DR/Q8 Terra-sigillata Vessel Form  View 2.
-    image_description: >-
-      DR/Q8 Terra-sigillata Vessel Form. Alternate View. Height: 16 cm. Price in
-      GBP £680.00 SOLD
+  - image_path:
+    image_title:
+    image_description:
+  - image_path:
+    image_title:
+    image_description:
+  - image_path:
+    image_title:
+    image_description:
+  - image_path:
+    image_title:
+    image_description:
   - image_path: /uploads/img-5012.jpg
     image_title: DR/Q9 Terra-sigillata Vessel Form
     image_description: >-
@@ -65,14 +57,12 @@ images:
   - image_path: /uploads/img-5045.jpg
     image_title: DR/Q10 View 2
     image_description: DR/Q10 Small Oval Vessel
-  - image_path: /uploads/img-5052.jpg
-    image_title: DR/Q3 Small Terra-sigillata Bowl
-    image_description: |-
-      DR/Q3    Small Terra-sigillata Bowl  Height:  10.5 cm      
-      GBP: SOLD
-  - image_path: /uploads/img-5054.jpg
-    image_title: DR/Q3 View 2
-    image_description: DR/Q3 View 2  SOLD
+  - image_path:
+    image_title:
+    image_description:
+  - image_path:
+    image_title:
+    image_description:
 display_title: true
 cols: 2
 _options:
