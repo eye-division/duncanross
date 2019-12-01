@@ -13,7 +13,7 @@ description_markdown: >-
   &nbsp;
 _gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/new-work/
-main_image_path:
+main_image_path: /uploads/img-5012-1.jpg
 images:
   - image_path: /uploads/img-5012.jpg
     image_title: DR/Q9 Terra-sigillata Vessel Form
