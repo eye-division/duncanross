@@ -1,9 +1,11 @@
 ---
 title: New Work
 description_markdown: >-
-  These images are of selected pieces&nbsp; now available from my most recent
-  firings. Please note that there are 2 views of each piece. Open thumbnail for
-  expanded view and details.
+  Some pieces from this year's Ceramic Art London selection as shown on
+  \#VirtualCAL.
+
+
+  Please open thumbnails for expanded view and details.
 
 
   &nbsp;If you would like further information please see the [Contact](/contact)
@@ -13,25 +15,38 @@ description_markdown: >-
   &nbsp;
 _gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/new-work/
-main_image_path: /uploads/img-5012-1.jpg
+main_image_path:
 images:
-  - image_path: /uploads/img-5012.jpg
-    image_title: DR/Q9 Terra-sigillata Vessel Form
-    image_description: >-
-      DR/Q9  Terra-sigillata  Vessel Form. Height: 20.5 cm. Currently available
-      from the Contemporary Ceramics Centre, London.  info@cpaceramics.com Tel:
-      ‭020 7242 9644‬
-  - image_path: /uploads/img-5042.jpg
-    image_title: DR/Q9 View 2
-    image_description: >-
-      DR/Q9 Terra-sigillata Vessel Form Alternate View. See previous image for
-      details.
-  - image_path: /uploads/unnamed.jpg
-    image_title: DR/M10Terra-sigillata Vessel Form
-    image_description: 'DR/M10 Terra-sigillata Vessel Form. Height: 22 cm. Price in GBP: £1160.00'
-  - image_path: /uploads/img-5036.jpg
-    image_title: DR/M10  View 2
-    image_description: DR/M10 Terra-sigillata Vessel Form. Alternate View
+  - image_path: /uploads/img-5110.jpg
+    image_title: DR/S3 Terra-sigillata Vessel
+    image_description: |-
+      DR/S3 Terra-sigillata Vessel. Height: 17.5 cm
+      Price in GBP: £800.00
+  - image_path: /uploads/img-5114.jpg
+    image_title: DR/S6 Terra-sigillata Bowl
+    image_description: |-
+      DR/S6 Terra-sigillata Bowl. Height: 19 cm.
+      Price in GBP: £850.00
+  - image_path: /uploads/img-5115.jpg
+    image_title: DR/S8 Terra-sigillata Vessel
+    image_description: 'DR/S8 Terra-sigillata Vessel Height: 18 cm. Price in GBP: £800.00'
+  - image_path: /uploads/img-5117.jpg
+    image_title: DR/S5 Terra-sigillata Vessel
+    image_description: 'DR/S5  Terra-sigillata Vessel.   Height: 20 cm. Price in GBP: £900.00'
+  - image_path: /uploads/img-5121.jpg
+    image_title: DR/S2 Terra-sigillata Vessel.
+    image_description: 'DR/S2 Terra-sigillata Vessel. Height: 18 cm. Price in GBP: £800.00'
+  - image_path: /uploads/img-5124.jpg
+    image_title: DR/P10 Terra-sigillata Vessel
+    image_description: 'DR/P10 Terra-sigillata Vessel. Height: 22.5 cm. Price in GBP: £1500.00'
+  - image_path: /uploads/img-5126.jpg
+    image_title: DR/S9 Small Terra-sigillata Vessel
+    image_description: 'DR/S9 Small Terra-sigillata Vessel. Height: 11.5 cm.Price in GBP: £300.00'
+  - image_path: /uploads/img-5131.jpg
+    image_title: DR/M7 Dark Terra-sigillata Vessel
+    image_description: |-
+      DR/M7 Dark Terra-sigillata Vessel. Height:  20 cm.  
+      Price in GBP: £1400.00
   - image_path: /uploads/img-5043.jpg
     image_title: DR/Q4 Terra-sigillata Vessel Form
     image_description: |-
@@ -40,14 +55,12 @@ images:
   - image_path: /uploads/img-5044.jpg
     image_title: DR/Q4 View 2
     image_description:
-  - image_path: /uploads/img-5046.jpg
-    image_title: DR/Q10 Small Oval Vessel
-    image_description: |-
-      DR/Q10 Terra-sigllata small oval vessel. Height: 13 cm
-      GBP: £360.00
-  - image_path: /uploads/img-5045.jpg
-    image_title: DR/Q10 View 2
-    image_description: DR/Q10 Small Oval Vessel
+  - image_path: /uploads/img-5036.jpg
+    image_title: DR/M10  View 2
+    image_description: DR/M10 Terra-sigillata Vessel Form. Alternate View
+  - image_path: /uploads/unnamed.jpg
+    image_title: DR/M10Terra-sigillata Vessel Form
+    image_description: 'DR/M10 Terra-sigillata Vessel Form. Height: 22 cm. Price in GBP: £1160.00'
 display_title: true
 cols: 2
 _options:
