@@ -31,12 +31,6 @@ images:
   - image_path: /uploads/img-5044.jpg
     image_title: DR/Q4 View 2
     image_description:
-  - image_path: /uploads/img-5072.jpg
-    image_title:
-    image_description:
-  - image_path: /uploads/img-5073.jpg
-    image_title:
-    image_description:
 display_title: true
 cols: 2
 _options:
