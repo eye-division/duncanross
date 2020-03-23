@@ -47,9 +47,6 @@ images:
     image_description: |-
       DR/M7 Dark Terra-sigillata Vessel. Height:  20 cm.  
       Price in GBP: £1400.00
-  - image_path: /uploads/img-5036.jpg
-    image_title: DR/M10  View 2
-    image_description: DR/M10 Terra-sigillata Vessel Form. Alternate View
   - image_path: /uploads/img-5043.jpg
     image_title: DR/Q4 Terra-sigillata Vessel Form
     image_description: |-
@@ -58,6 +55,9 @@ images:
   - image_path: /uploads/img-5044.jpg
     image_title: DR/Q4 View 2
     image_description:
+  - image_path: /uploads/img-5036.jpg
+    image_title: DR/M10  View 2
+    image_description: DR/M10 Terra-sigillata Vessel Form. Alternate View
   - image_path: /uploads/unnamed.jpg
     image_title: DR/M10Terra-sigillata Vessel Form
     image_description: 'DR/M10 Terra-sigillata Vessel Form. Height: 22 cm. Price in GBP: £1160.00'
