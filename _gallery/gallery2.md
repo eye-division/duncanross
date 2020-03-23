@@ -15,7 +15,7 @@ description_markdown: >-
   &nbsp;
 _gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/new-work/
-main_image_path: /uploads/img-5012-1.jpg
+main_image_path:
 images:
   - image_path: /uploads/unnamed.jpg
     image_title: DR/M10Terra-sigillata Vessel Form
@@ -32,6 +32,9 @@ images:
     image_title: DR/Q4 View 2
     image_description:
   - image_path: /uploads/img-5072.jpg
+    image_title:
+    image_description:
+  - image_path: /uploads/img-5073.jpg
     image_title:
     image_description:
 display_title: true
