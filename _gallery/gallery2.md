@@ -41,7 +41,7 @@ images:
     image_description: 'DR/P10 Terra-sigillata Vessel. Height: 22.5 cm. Price in GBP: £1500.00'
   - image_path: /uploads/img-5126.jpg
     image_title: DR/S9 Small Terra-sigillata Vessel
-    image_description: 'DR/S9 Small Terra-sigillata Vessel. Height: 11.5 cm.Price in GBP: £300.00'
+    image_description: 'DR/S9 Small Terra-sigillata Vessel. Height: 11.5 cm.Price in GBP: SOLD'
   - image_path: /uploads/img-5131.jpg
     image_title: DR/M7 Dark Terra-sigillata Vessel
     image_description: |-
