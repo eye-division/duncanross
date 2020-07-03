@@ -61,6 +61,24 @@ images:
   - image_path: /uploads/unnamed.jpg
     image_title: DR/M10Terra-sigillata Vessel Form
     image_description: 'DR/M10 Terra-sigillata Vessel Form. Height: 22 cm. Price in GBP: £1160.00'
+  - image_path: /uploads/drm41.jpg
+    image_title: DR/M4 Tall Landscape Vessel
+    image_description: |-
+      DR/M4 -1 Tall Landscape terrasigillata vessel. Height: 26 cm.
+      Price: £1400.00
+  - image_path: /uploads/drm42.jpg
+    image_title: DR/S11-2 Tall Landscape Vessel
+    image_description: |-
+      DR/S11 View 2   Tall Landscape terra sigillata vessel.
+      Height: 26 cm.  Price £1400.00
+  - image_path: /uploads/drs18-1.jpg
+    image_title: DR/S18-1 Vessel Form
+    image_description: 'DR/S18-1 Terra sigillata vessel form. Height: 16.5 cm. Price: £670.00'
+  - image_path:
+    image_title: DR/S18 -2 Vessel Form
+    image_description: |-
+      DR/S18-2 Terra sigillata vessel form. Height: 16.5 cm
+      Price: £670.00
 display_title: true
 cols: 2
 _options:
