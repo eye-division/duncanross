@@ -1,11 +1,11 @@
 ---
 title: New Work
 description_markdown: >-
-  Some pieces from this year's Ceramic Art London selection as shown on
-  \#VirtualCAL.
+  I am currently uploading some of the new pieces I&nbsp; have available. So
+  please check back on this page for updates
 
 
-  Please open thumbnails for expanded view and details.
+  Open thumbnails for expanded view and details.
 
 
   &nbsp;If you would like further information please see the [Contact](/contact)
