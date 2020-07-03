@@ -1,8 +1,8 @@
 ---
 title: New Work
 description_markdown: >-
-  I am currently uploading some of the new pieces I&nbsp; have available. So
-  please check back on this page for updates
+  I am currently uploading some of the new pieces I&nbsp; have available so
+  please check out this page again soon for even more updates.
 
 
   Open thumbnails for expanded view and details.
@@ -74,11 +74,21 @@ images:
   - image_path: /uploads/drs18-1.jpg
     image_title: DR/S18-1 Vessel Form
     image_description: 'DR/S18-1 Terra sigillata vessel form. Height: 16.5 cm. Price: £670.00'
-  - image_path:
+  - image_path: /uploads/drs18-2.jpg
     image_title: DR/S18 -2 Vessel Form
     image_description: |-
       DR/S18-2 Terra sigillata vessel form. Height: 16.5 cm
       Price: £670.00
+  - image_path: /uploads/drn16-1.jpg
+    image_title: DR/N16 Dark Bowl
+    image_description: |-
+      DR/N16 Dark terra-sigillata Bowl. Height: 
+      Price:
+  - image_path: /uploads/drn16-2.jpg
+    image_title: DR/N16-2  Dark Bowl
+    image_description: |-
+      DR/N16-2 dark terra-sigillata Bowl. Height:  
+      Price:
 display_title: true
 cols: 2
 _options:
