@@ -82,13 +82,29 @@ images:
   - image_path: /uploads/drn16-1.jpg
     image_title: DR/N16 Dark Bowl
     image_description: |-
-      DR/N16 Dark terra-sigillata Bowl. Height: 
-      Price:
+      DR/N16 Dark terra-sigillata Bowl. Height: 14 cm
+      Price: £600.00
   - image_path: /uploads/drn16-2.jpg
     image_title: DR/N16-2  Dark Bowl
     image_description: |-
-      DR/N16-2 dark terra-sigillata Bowl. Height:  
-      Price:
+      DR/N16 Dark terra-sigillata Bowl. Height: 14 cm
+      Price: £600.00
+  - image_path: /uploads/drs11-1.jpg
+    image_title: DR/S11 Deep Bowl
+    image_description: 'DR/S11-1 Deep Terra-sigillata Bowl. Height: 14.5 cm. Price: £390.00'
+  - image_path: /uploads/drs11-2.jpg
+    image_title: DR/S11 Deep Bowl
+    image_description: 'DR/S11-2   Deep Terra-sigillata Bowl. Height: 14.5 cm. Price: £390.00'
+  - image_path: /uploads/drs19.jpg
+    image_title: DR/S19  Bowl
+    image_description: |-
+      DR/S19 Terra-sigillata Bowl. Height; 14.5 cm 
+      Price:  £700.00
+  - image_path: /uploads/drs19-2.jpg
+    image_title: DR/S19-2  Bowl
+    image_description: |-
+      DR/S19-2 Terra-sigillata Bowl. Height; 14.5 cm 
+      Price:  £700.00
 display_title: true
 cols: 2
 _options:
