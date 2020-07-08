@@ -27,14 +27,14 @@ images:
     image_description: |-
       DR/S11 View 2   Tall Landscape terra sigillata vessel.
       Height: 26 cm.  Price £1400.00
+  - image_path: /uploads/drs18-1.jpg
+    image_title: DR/S18-1 Vessel Form
+    image_description: 'DR/S18-1 Terra sigillata vessel form. Height: 16.5 cm. Price: £670.00'
   - image_path: /uploads/drs18-3.jpg
     image_title: DR/S18 -2 Vessel Form
     image_description: |-
       DR/S18-2 Terra sigillata vessel form. Height: 16.5 cm
       Price: £670.00
-  - image_path: /uploads/drs18-1.jpg
-    image_title: DR/S18-1 Vessel Form
-    image_description: 'DR/S18-1 Terra sigillata vessel form. Height: 16.5 cm. Price: £670.00'
   - image_path: /uploads/drn16-3.jpg
     image_title: DR/N16 Dark Bowl
     image_description: |-
