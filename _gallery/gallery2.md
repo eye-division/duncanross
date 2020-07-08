@@ -1,7 +1,7 @@
 ---
 title: New Work
 description_markdown: >-
-  I am currently uploading some of the new pieces I&nbsp; have available so
+  I am currently uploading some more of the new pieces I&nbsp; have available so
   please check out this page again soon for even more updates.
 
 
