@@ -17,6 +17,50 @@ _gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/new-work/
 main_image_path:
 images:
+  - image_path: /uploads/drm41.jpg
+    image_title: DR/M4 Tall Landscape Vessel
+    image_description: |-
+      DR/M4 -1 Tall Landscape terrasigillata vessel. Height: 26 cm.
+      Price: £1400.00
+  - image_path: /uploads/drm42.jpg
+    image_title: DR/S11-2 Tall Landscape Vessel
+    image_description: |-
+      DR/S11 View 2   Tall Landscape terra sigillata vessel.
+      Height: 26 cm.  Price £1400.00
+  - image_path: /uploads/drs18-3.jpg
+    image_title: DR/S18 -2 Vessel Form
+    image_description: |-
+      DR/S18-2 Terra sigillata vessel form. Height: 16.5 cm
+      Price: £670.00
+  - image_path: /uploads/drs18-1.jpg
+    image_title: DR/S18-1 Vessel Form
+    image_description: 'DR/S18-1 Terra sigillata vessel form. Height: 16.5 cm. Price: £670.00'
+  - image_path: /uploads/drn16-3.jpg
+    image_title: DR/N16 Dark Bowl
+    image_description: |-
+      DR/N16 Dark terra-sigillata Bowl. Height: 14 cm
+      Price: £600.00
+  - image_path: /uploads/drn16-3.jpg
+    image_title: DR/N16-2  Dark Bowl
+    image_description: |-
+      DR/N16 Dark terra-sigillata Bowl. Height: 14 cm
+      Price: £600.00
+  - image_path: /uploads/drs11-3.jpg
+    image_title: DR/S11 Deep Bowl
+    image_description: 'DR/S11-1 Deep Terra-sigillata Bowl. Height: 14.5 cm. Price: £390.00'
+  - image_path: /uploads/drs11-3.jpg
+    image_title: DR/S11 Deep Bowl
+    image_description: 'DR/S11-2   Deep Terra-sigillata Bowl. Height: 14.5 cm. Price: £390.00'
+  - image_path: /uploads/drs19-1.jpg
+    image_title: DR/S19  Bowl
+    image_description: |-
+      DR/S19 Terra-sigillata Bowl. Height; 14.5 cm 
+      Price:  £700.00
+  - image_path: /uploads/drs19-3.jpg
+    image_title: DR/S19-2  Bowl
+    image_description: |-
+      DR/S19-2 Terra-sigillata Bowl. Height; 14.5 cm 
+      Price:  £700.00
   - image_path: /uploads/img-5110.jpg
     image_title: DR/S3 Terra-sigillata Vessel
     image_description: |-
@@ -61,50 +105,6 @@ images:
   - image_path: /uploads/unnamed.jpg
     image_title: DR/M10Terra-sigillata Vessel Form
     image_description: 'DR/M10 Terra-sigillata Vessel Form. Height: 22 cm. Price in GBP: £1160.00'
-  - image_path: /uploads/drm41.jpg
-    image_title: DR/M4 Tall Landscape Vessel
-    image_description: |-
-      DR/M4 -1 Tall Landscape terrasigillata vessel. Height: 26 cm.
-      Price: £1400.00
-  - image_path: /uploads/drm42.jpg
-    image_title: DR/S11-2 Tall Landscape Vessel
-    image_description: |-
-      DR/S11 View 2   Tall Landscape terra sigillata vessel.
-      Height: 26 cm.  Price £1400.00
-  - image_path: /uploads/drs18-1.jpg
-    image_title: DR/S18-1 Vessel Form
-    image_description: 'DR/S18-1 Terra sigillata vessel form. Height: 16.5 cm. Price: £670.00'
-  - image_path: /uploads/drs18-3.jpg
-    image_title: DR/S18 -2 Vessel Form
-    image_description: |-
-      DR/S18-2 Terra sigillata vessel form. Height: 16.5 cm
-      Price: £670.00
-  - image_path: /uploads/drn16-3.jpg
-    image_title: DR/N16 Dark Bowl
-    image_description: |-
-      DR/N16 Dark terra-sigillata Bowl. Height: 14 cm
-      Price: £600.00
-  - image_path: /uploads/drn16-3.jpg
-    image_title: DR/N16-2  Dark Bowl
-    image_description: |-
-      DR/N16 Dark terra-sigillata Bowl. Height: 14 cm
-      Price: £600.00
-  - image_path: /uploads/drs11-3.jpg
-    image_title: DR/S11 Deep Bowl
-    image_description: 'DR/S11-1 Deep Terra-sigillata Bowl. Height: 14.5 cm. Price: £390.00'
-  - image_path: /uploads/drs11-3.jpg
-    image_title: DR/S11 Deep Bowl
-    image_description: 'DR/S11-2   Deep Terra-sigillata Bowl. Height: 14.5 cm. Price: £390.00'
-  - image_path: /uploads/drs19-1.jpg
-    image_title: DR/S19  Bowl
-    image_description: |-
-      DR/S19 Terra-sigillata Bowl. Height; 14.5 cm 
-      Price:  £700.00
-  - image_path: /uploads/drs19-3.jpg
-    image_title: DR/S19-2  Bowl
-    image_description: |-
-      DR/S19-2 Terra-sigillata Bowl. Height; 14.5 cm 
-      Price:  £700.00
 display_title: true
 cols: 2
 _options:
