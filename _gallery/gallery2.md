@@ -2,7 +2,7 @@
 title: New Work
 description_markdown: >-
   I am currently uploading some more of the new pieces I&nbsp; have available so
-  please check out this page again soon for even more updates.
+  please check out this page again soon.
 
 
   Open thumbnails for expanded view and details.
@@ -22,7 +22,7 @@ images:
     image_description: |-
       DR/M4 -1 Tall Landscape terrasigillata vessel. Height: 26 cm.
       Price: £1400.00
-  - image_path: /uploads/drm42.jpg
+  - image_path: /uploads/drm4-2.jpg
     image_title: DR/S11-2 Tall Landscape Vessel
     image_description: |-
       DR/S11 View 2   Tall Landscape terra sigillata vessel.
@@ -40,7 +40,7 @@ images:
     image_description: |-
       DR/N16 Dark terra-sigillata Bowl. Height: 14 cm
       Price: £600.00
-  - image_path: /uploads/drn16-3.jpg
+  - image_path: /uploads/drn16-4.jpg
     image_title: DR/N16-2  Dark Bowl
     image_description: |-
       DR/N16 Dark terra-sigillata Bowl. Height: 14 cm
@@ -48,7 +48,7 @@ images:
   - image_path: /uploads/drs11-3.jpg
     image_title: DR/S11 Deep Bowl
     image_description: 'DR/S11-1 Deep Terra-sigillata Bowl. Height: 14.5 cm. Price: £390.00'
-  - image_path: /uploads/drs11-3.jpg
+  - image_path: /uploads/drs11-4.jpg
     image_title: DR/S11 Deep Bowl
     image_description: 'DR/S11-2   Deep Terra-sigillata Bowl. Height: 14.5 cm. Price: £390.00'
   - image_path: /uploads/drs19-1.jpg
