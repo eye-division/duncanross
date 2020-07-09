@@ -51,7 +51,7 @@ images:
   - image_path: /uploads/drs11-4.jpg
     image_title: DR/S11 Deep Bowl
     image_description: 'DR/S11-2   Deep Terra-sigillata Bowl. Height: 14.5 cm. Price: £390.00'
-  - image_path: /uploads/drs19-1.jpg
+  - image_path: /uploads/drs19new.jpg
     image_title: DR/S19  Bowl
     image_description: |-
       DR/S19 Terra-sigillata Bowl. Height; 14.5 cm 
