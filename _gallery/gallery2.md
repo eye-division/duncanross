@@ -21,11 +21,9 @@ images:
     image_description: >-
       Selection of work available shown in my private show area. This will help
       you to see the relative sizes between the pieces.
-  - image_path: /uploads/img-5336.jpg
-    image_title: Banded Bowl
-    image_description: >-
-      Selection of work available shown in my private show area.   This will
-      help you to see the relative sizes between the pieces.
+  - image_path: /uploads/dr-noname.jpg
+    image_title: Small  Bowl
+    image_description:
   - image_path: /uploads/img-5327.jpg
     image_title: DR/M4 Tall Landscape Vessel
     image_description: |-
