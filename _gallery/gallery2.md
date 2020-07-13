@@ -63,12 +63,12 @@ images:
   - image_path: /uploads/img-5321.jpg
     image_title: DR/S14 Small Oval Vessel Form
     image_description: |-
-      DR/S14 Small slim oval vessel form, height 16 cm. Price in GBP  £300.00.
+      DR/S14 Small slim oval vessel form, height 16 cm. Price in GBP  £320.00.
       This piece is particularly satisfying to hold.
-  - image_path: /uploads/img-5323.jpg
+  - image_path: /uploads/img-5287.jpg
     image_title: DR/S14 Small  Oval Vessel Form
     image_description: >-
-      DR/S14 Small oval vessel form, height 16 cm. Price £300.00. This piece is
+      DR/S14 Small oval vessel form, height 16 cm. Price £320.00. This piece is
       specially good to hold.
   - image_path: /uploads/img-5110.jpg
     image_title: DR/S3 Terra-sigillata Vessel
