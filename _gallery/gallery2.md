@@ -16,6 +16,16 @@ _gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/new-work/
 main_image_path:
 images:
+  - image_path: /uploads/img-1574.jpg
+    image_title: Selection of Work Available
+    image_description: >-
+      Selection of work available shown in my private show area. This will help
+      you to see the relative sizes between the pieces.
+  - image_path: /uploads/img-1575.jpg
+    image_title: Selection of Work Available
+    image_description: >-
+      Selection of work available shown in my private show area.   This will
+      help you to see the relative sizes between the pieces.
   - image_path: /uploads/img-5327.jpg
     image_title: DR/M4 Tall Landscape Vessel
     image_description: |-
