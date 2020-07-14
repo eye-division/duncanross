@@ -16,6 +16,14 @@ _gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/new-work/
 main_image_path:
 images:
+  - image_path: /uploads/img-1573.jpg
+    image_title: Selection of Work Available
+    image_description: >-
+      Selection of work available shown in my private show area. This will help
+      you to see the relative sizes between the pieces.
+  - image_path: /uploads/dr-noname.jpg
+    image_title: DR/T3 Small  Bowl
+    image_description: 'DR/T3 Small Bowl. Height: 11 cm  Price: £270.00'
   - image_path: /uploads/img-5327.jpg
     image_title: DR/M4 Tall Landscape Vessel
     image_description: |-
@@ -70,6 +78,12 @@ images:
     image_description: >-
       DR/S14 Small oval vessel form, height 16 cm. Price £320.00. This piece is
       specially good to hold.
+  - image_path: /uploads/img-5336.jpg
+    image_title: DR/S1 Medium-Dark Banded Vessel
+    image_description: 'DR/S1 Medium-Dark  Banded Vessel. Height: 16.5 cm. Price: £490.00'
+  - image_path: /uploads/img-5337.jpg
+    image_title: DR/S1 Medium-Dark Banded Vessel.
+    image_description: 'DR/S1 Medium-Dark  Banded Vessel. Height: 16.5 cm. Price: £490.00'
   - image_path: /uploads/img-5110.jpg
     image_title: DR/S3 Terra-sigillata Vessel
     image_description: |-
