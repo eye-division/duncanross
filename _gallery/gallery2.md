@@ -54,10 +54,10 @@ images:
       Price: £600.00
   - image_path: /uploads/drs11-3.jpg
     image_title: DR/S11 Deep Bowl
-    image_description: 'DR/S11 Deep Terra-sigillata Bowl. Height: 14.5 cm. Price: £390.00'
+    image_description: 'DR/S11 Deep Terra-sigillata Bowl. Height: 14.5 cm. Price:  RESERVED'
   - image_path: /uploads/drs11-4.jpg
     image_title: DR/S11 Deep Bowl
-    image_description: 'DR/S11   Deep Terra-sigillata Bowl. Height: 14.5 cm. Price: £390.00'
+    image_description: 'DR/S11   Deep Terra-sigillata Bowl. Height: 14.5 cm. Price: RESERVED'
   - image_path: /uploads/drs19new.jpg
     image_title: DR/S19  Bowl
     image_description: |-
@@ -71,13 +71,13 @@ images:
   - image_path: /uploads/img-5321.jpg
     image_title: DR/S14 Small Oval Vessel Form
     image_description: |-
-      DR/S14 Small slim oval vessel form, height 16 cm. Price in GBP  £320.00.
+      DR/S14 Small slim oval vessel form, height 16 cm. Price in GBP  RESERVED
       This piece is particularly satisfying to hold.
   - image_path: /uploads/img-5287.jpg
     image_title: DR/S14 Small  Oval Vessel Form
-    image_description: >-
-      DR/S14 Small oval vessel form, height 16 cm. Price £320.00. This piece is
-      specially good to hold.
+    image_description: |-
+      DR/S14 Small oval vessel form, height 16 cm. Price RESERVED
+       This piece is specially good to hold.
   - image_path: /uploads/img-5336.jpg
     image_title: DR/S1 Medium-Dark Banded Vessel
     image_description: 'DR/S1 Medium-Dark  Banded Vessel. Height: 16.5 cm. Price: £490.00'
