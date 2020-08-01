@@ -23,7 +23,7 @@ images:
       you to see the relative sizes between the pieces.
   - image_path: /uploads/dr-noname.jpg
     image_title: DR/T3 Small  Bowl
-    image_description: 'DR/T3 Small Bowl. Height: 11 cm  Price: £270.00'
+    image_description: 'DR/T3 Small Bowl. Height: 11 cm  Price: SOLD'
   - image_path: /uploads/img-5327.jpg
     image_title: DR/M4 Tall Landscape Vessel
     image_description: |-
