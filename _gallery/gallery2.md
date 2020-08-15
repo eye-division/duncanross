@@ -52,12 +52,6 @@ images:
     image_description: |-
       DR/N16 Dark terra-sigillata Bowl. Height: 14 cm
       Price: £600.00
-  - image_path: /uploads/drs11-3.jpg
-    image_title: DR/S11 Deep Bowl
-    image_description: 'DR/S11 Deep Terra-sigillata Bowl. Height: 14.5 cm. Price in GBP: SOLD'
-  - image_path: /uploads/drs11-4.jpg
-    image_title: DR/S11 Deep Bowl
-    image_description: 'DR/S11   Deep Terra-sigillata Bowl. Height: 14.5 cm. Price: SOLD'
   - image_path: /uploads/drs19new.jpg
     image_title: DR/S19  Bowl
     image_description: |-
@@ -68,16 +62,6 @@ images:
     image_description: |-
       DR/S19 Terra-sigillata Bowl. Height; 14.5 cm 
       Price:  £700.00
-  - image_path: /uploads/img-5321.jpg
-    image_title: DR/S14 Small Oval Vessel Form
-    image_description: |-
-      DR/S14 Small slim oval vessel form, height 16 cm. Price in GBP: SOLD
-      This piece is particularly satisfying to hold.
-  - image_path: /uploads/img-5287.jpg
-    image_title: DR/S14 Small  Oval Vessel Form
-    image_description: |-
-      DR/S14 Small oval vessel form, height 16 cm. Price: SOLD
-       This piece is specially good to hold.
   - image_path: /uploads/img-5336.jpg
     image_title: DR/S1 Medium-Dark Banded Vessel
     image_description: 'DR/S1 Medium-Dark  Banded Vessel. Height: 16.5 cm. Price: £490.00'
@@ -114,14 +98,6 @@ images:
     image_description: |-
       DR/M7 Dark Terra-sigillata Vessel. Height:  20 cm.  
       Price in GBP: £1400.00
-  - image_path: /uploads/img-5043.jpg
-    image_title: DR/Q4 Terra-sigillata Vessel Form
-    image_description: |-
-      DR/Q4 Terra-sigillata Vessel Form. Height: 14 cm
-      GBP:SOLD
-  - image_path: /uploads/img-5044.jpg
-    image_title: DR/Q4 View 2 SOLD
-    image_description:
   - image_path: /uploads/img-5036.jpg
     image_title: DR/M10  View 2
     image_description: DR/M10 Terra-sigillata Vessel Form. Alternate View
