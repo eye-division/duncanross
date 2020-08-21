@@ -56,12 +56,12 @@ images:
     image_title: DR/S19  Bowl
     image_description: |-
       DR/S19 Terra-sigillata Bowl. Height; 14.5 cm 
-      Price:  £700.00
+      Price:  SOLD
   - image_path: /uploads/img-5309.jpg
     image_title: DR/S19  Bowl
     image_description: |-
       DR/S19 Terra-sigillata Bowl. Height; 14.5 cm 
-      Price:  £700.00
+      Price:  SOLD
   - image_path: /uploads/img-5336.jpg
     image_title: DR/S1 Medium-Dark Banded Vessel
     image_description: 'DR/S1 Medium-Dark  Banded Vessel. Height: 16.5 cm. Price: £490.00'
