@@ -111,8 +111,8 @@ images:
   - image_path: /uploads/img-1819.jpg
     image_title: Selection of Work Available
     image_description:
-  - image_path:
-    image_title:
+  - image_path: /uploads/img-1818.jpg
+    image_title: Selection of Work Available
     image_description:
 display_title: true
 cols: 2
