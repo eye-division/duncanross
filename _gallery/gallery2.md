@@ -16,14 +16,6 @@ _gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/new-work/
 main_image_path:
 images:
-  - image_path: /uploads/img-1573.jpg
-    image_title: Selection of Work Available
-    image_description: >-
-      Selection of work available shown in my private show area. This will help
-      you to see the relative sizes between the pieces.
-  - image_path: /uploads/dr-noname.jpg
-    image_title: DR/T3 Small  Bowl
-    image_description: 'DR/T3 Small Bowl. Height: 11 cm  Price: SOLD'
   - image_path: /uploads/img-5327.jpg
     image_title: DR/M4 Tall Landscape Vessel
     image_description: |-
@@ -96,6 +88,32 @@ images:
   - image_path: /uploads/unnamed.jpg
     image_title: DR/M10Terra-sigillata Vessel Form
     image_description: 'DR/M10 Terra-sigillata Vessel Form. Height: 22 cm. Price in GBP: £1160.00'
+  - image_path: /uploads/img-5435.jpg
+    image_title: DR/T8 Terra-sigillata Vessel Form
+    image_description: |-
+      Terra-sigillata Vessel Form.
+      Height: 12.5cm. Price in GBP: £350.00
+  - image_path: /uploads/img-5437.jpg
+    image_title: 'DR/T8 Terra-sigillata Vessel Form:  view 2'
+    image_description: |-
+      Terra-sigillata Vessel Form. Height:12.5cm
+      Price in GBP: £350.00
+  - image_path: /uploads/img-5438.jpg
+    image_title: DR/T7 Terra-sigillata Vessel Form
+    image_description: |-
+      DR/T7  Terra-sigillata Vessel Form 
+      Height: 13.5 cm. Price in GBP: £360.00
+  - image_path: /uploads/img-5440.jpg
+    image_title: DR/T7 Terra-sigillata Vessel Form
+    image_description: |-
+      DR/T7 Terra-sigillata Vessel Form/ view 2
+      Height: 13.5 cm. Price in GBP: £360.00
+  - image_path: /uploads/img-1819.jpg
+    image_title: Selection of Work Available
+    image_description:
+  - image_path:
+    image_title:
+    image_description:
 display_title: true
 cols: 2
 _options:
