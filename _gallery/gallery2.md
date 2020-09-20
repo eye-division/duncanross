@@ -108,10 +108,10 @@ images:
     image_description: |-
       DR/T7 Terra-sigillata Vessel Form/ view 2
       Height: 13.5 cm. Price in GBP: £360.00
-  - image_path: /uploads/img-1819.jpg
+  - image_path: /uploads/img-1818.jpg
     image_title: Selection of Work Available
     image_description:
-  - image_path: /uploads/img-1818.jpg
+  - image_path: /uploads/img-1819.jpg
     image_title: Selection of Work Available
     image_description:
 display_title: true
