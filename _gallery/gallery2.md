@@ -40,12 +40,12 @@ images:
     image_title: DR/T7 Terra-sigillata Vessel Form
     image_description: |-
       DR/T7  Terra-sigillata Vessel Form 
-      Height: 13.5 cm. Price in GBP: £360.00
+      Height: 13.5 cm. Price in GBP: SOLD
   - image_path: /uploads/img-5440.jpg
     image_title: DR/T7 Terra-sigillata Vessel Form
     image_description: |-
       DR/T7 Terra-sigillata Vessel Form/ view 2
-      Height: 13.5 cm. Price in GBP: £360.00
+      Height: 13.5 cm. Price in GBP: SOLD
   - image_path: /uploads/drn16-3.jpg
     image_title: DR/N16 Dark Bowl
     image_description: |-
