@@ -46,28 +46,12 @@ images:
     image_description: |-
       DR/N16 Dark terra-sigillata Bowl. Height: 14 cm
       Price: £600.00
-  - image_path: /uploads/drs19new.jpg
-    image_title: DR/S19  Bowl
-    image_description: |-
-      DR/S19 Terra-sigillata Bowl. Height; 14.5 cm 
-      Price:  SOLD
-  - image_path: /uploads/img-5309.jpg
-    image_title: DR/S19  Bowl
-    image_description: |-
-      DR/S19 Terra-sigillata Bowl. Height; 14.5 cm 
-      Price:  SOLD
   - image_path: /uploads/img-5336.jpg
     image_title: DR/S1 Medium-Dark Banded Vessel
     image_description: 'DR/S1 Medium-Dark  Banded Vessel. Height: 16.5 cm. Price: £490.00'
   - image_path: /uploads/img-5337.jpg
     image_title: DR/S1 Medium-Dark Banded Vessel.
     image_description: 'DR/S1 Medium-Dark  Banded Vessel. Height: 16.5 cm. Price: £490.00'
-  - image_path: /uploads/img-5036.jpg
-    image_title: DR/M10  View 2
-    image_description: DR/M10 Terra-sigillata Vessel Form. Alternate View
-  - image_path: /uploads/unnamed.jpg
-    image_title: DR/M10Terra-sigillata Vessel Form
-    image_description: 'DR/M10 Terra-sigillata Vessel Form. Height: 22 cm. SOLD'
   - image_path: /uploads/img-5110.jpg
     image_title: DR/S3 Terra-sigillata Vessel
     image_description: |-
