@@ -62,9 +62,6 @@ images:
     image_description: |-
       DR/S6 Terra-sigillata Bowl. Height: 19 cm.
       Price in GBP: £850.00
-  - image_path: /uploads/img-5115.jpg
-    image_title: DR/S8 Terra-sigillata Vessel
-    image_description: 'DR/S8 Terra-sigillata Vessel Height: 18 cm. Price in GBP: £800.00'
   - image_path: /uploads/img-5117.jpg
     image_title: DR/S5 Terra-sigillata Vessel
     image_description: 'DR/S5  Terra-sigillata Vessel.   Height: 20 cm. Price in GBP: £900.00'
