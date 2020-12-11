@@ -19,7 +19,7 @@ images:
   - image_path: /uploads/img-5495.jpg
     image_title: DR/E3 Terra-sigillata Bowl
     image_description: |-
-      DR/E3 Terra-sigillata bowl. Dark mottled interior. Height: 15 cm.
+      Bowl with dark mottled interior. Height: 15 cm.
       Price in GBP: £400.00
   - image_path: /uploads/img-5496.jpg
     image_title: DR/E3 View 2
@@ -39,12 +39,12 @@ images:
   - image_path: /uploads/img-5435.jpg
     image_title: DR/T8 Terra-sigillata Vessel Form
     image_description: |-
-      Terra-sigillata Vessel Form.
-      Height: 12.5cm. Price in GBP: £250.00
+      Vessel Form.   Height: 12.5cm. 
+        Price in GBP: £250.00
   - image_path: /uploads/img-5437.jpg
     image_title: 'DR/T8 Terra-sigillata Vessel Form:  view 2'
     image_description: |-
-      Terra-sigillata Vessel Form. Height:12.5cm
+      Vessel Form. Height:12.5cm
       Price in GBP: £250.00
   - image_path: /uploads/drn16-3.jpg
     image_title: DR/N16 Dark Bowl
@@ -52,20 +52,22 @@ images:
       DR/N16 Dark terra-sigillata Bowl. Height: 14 cm
       Price: £600.00
   - image_path: /uploads/drn16-4.jpg
-    image_title: DR/N16  Dark Bowl
+    image_title: DR/N16  Dark Bowl View 2
     image_description: |-
-      DR/N16 Dark terra-sigillata Bowl. Height: 14 cm
+      DR/N16 Dark terra-sigillata Bowl. 
+      Height: 14 cm
       Price: £600.00
   - image_path: /uploads/img-5336.jpg
     image_title: DR/S1 Medium-Dark Banded Vessel
-    image_description: 'DR/S1 Medium-Dark  Banded Vessel. Height: 16.5 cm. Price: £430.00'
+    image_description: 'DR/S1 Medium-Dark  Banded Vessel. View 2 Height: 16.5 cm. Price: £430.00'
   - image_path: /uploads/img-5337.jpg
     image_title: DR/S1 Medium-Dark Banded Vessel.
     image_description: 'DR/S1 Medium-Dark  Banded Vessel. Height: 16.5 cm. Price: £430.00'
   - image_path: /uploads/img-5114.jpg
-    image_title: DR/S6 Terra-sigillata Bowl
+    image_title: DR/S6  Terra-sigillata Bowl
     image_description: |-
-      DR/S6 Terra-sigillata Bowl. Height: 19 cm.
+      DR/S6 Kite Tails Terra-sigillata Bowl. 
+      Height: 19 cm.
       Price in GBP: £850.00
   - image_path: /uploads/img-5110.jpg
     image_title: DR/S3 Terra-sigillata Vessel
