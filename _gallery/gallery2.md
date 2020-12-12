@@ -29,12 +29,12 @@ images:
   - image_path: /uploads/img-5328.jpg
     image_title: DR/M4 Tall Landscape Vessel
     image_description: |-
-      DR/M4    Tall Landscape terra sigillata vessel.
+      Tall Landscape terra sigillata vessel.
       Height: 26 cm.  Price £1400.00
   - image_path: /uploads/img-5327.jpg
     image_title: DR/M4 Tall Landscape Vessel
     image_description: |-
-      DR/M4 -1 Tall Landscape terrasigillata vessel. Height: 26 cm.
+      View 2  Tall Landscape terrasigillata vessel. Height: 26 cm.
       Price: £1400.00
   - image_path: /uploads/img-5435.jpg
     image_title: DR/T8 Terra-sigillata Vessel Form
