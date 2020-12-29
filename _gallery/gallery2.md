@@ -72,7 +72,7 @@ images:
     image_description: |-
       Terra-sigillata Bowl. 
       Height: 19 cm.
-      Price in GBP: RESERVED
+      Price in GBP: SOLD
   - image_path: /uploads/img-5110.jpg
     image_title: DR/S3 Terra-sigillata Vessel
     image_description: |-
