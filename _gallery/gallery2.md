@@ -16,11 +16,29 @@ _gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/new-work/
 main_image_path:
 images:
+  - image_path: /uploads/img-5657.jpg
+    image_title: DR/A1 View 2
+    image_description: >-
+      Terra-sigillata Bowl Form "Winding Line" with mottled interior. Height 14
+      cm. Price: £430.00
+  - image_path: /uploads/img-5687.jpg
+    image_title: DR/A2  Dark Terra-sigillata Bowl "Winding Line'
+    image_description: >-
+      Dark Terra-sigillata Bowl Form "Winding Line". Mottled interior. Height:
+      18.5 cm.  Price in GBP: £1500.00
   - image_path: /uploads/drn16-3.jpg
     image_title: DR/N16 Dark Bowl
     image_description: |-
       Dark terra-sigillata Bowl. Height: 14 cm
       Price: £600.00
+  - image_path: /uploads/img-5688.jpg
+    image_title: DR/A2 Dark Terra-sigillata Bowl
+    image_description: Dark Terra-sigillata Bowl Form. View 2
+  - image_path: /uploads/img-5655.jpg
+    image_title: DR/A1 Terra-sigillata Bowl
+    image_description: >-
+      Terra-sigillata Bowl Form "Winding Line" with mottled interior. Height: 14
+      cm. Price in GBP: £430.00
   - image_path: /uploads/drn16-4.jpg
     image_title: DR/N16  Dark Bowl View 2
     image_description: |-
@@ -51,16 +69,6 @@ images:
     image_description: >-
       Medium-Dark Terra-sigillata Vessel. Height: 22.5 cm. Price in GBP:
       £1500.00
-  - image_path: /uploads/img-5655.jpg
-    image_title: DR/A1 Terra-sigillata Bowl
-    image_description: >-
-      Terra-sigillata Bowl Form "Winding Line" with mottled interior. Height: 14
-      cm. Price in GBP: £430.00
-  - image_path: /uploads/img-5657.jpg
-    image_title: DR/A1 View 2
-    image_description: >-
-      Terra-sigillata Bowl Form "Winding Line" with mottled interior. Height 14
-      cm. Price: £430.00
 display_title: true
 cols: 2
 _options:
