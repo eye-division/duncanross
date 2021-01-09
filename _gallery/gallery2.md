@@ -51,11 +51,6 @@ images:
     image_description: >-
       Medium-Dark Terra-sigillata Vessel. Height: 22.5 cm. Price in GBP:
       £1500.00
-  - image_path: /uploads/img-5131.jpg
-    image_title: DR/M7 Dark Terra-sigillata Vessel
-    image_description: |-
-      Dark Terra-sigillata Vessel. Height:  20 cm.  
-      Price in GBP: £1400.00
 display_title: true
 cols: 2
 _options:
