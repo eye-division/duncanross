@@ -51,6 +51,16 @@ images:
     image_description: >-
       Medium-Dark Terra-sigillata Vessel. Height: 22.5 cm. Price in GBP:
       £1500.00
+  - image_path: /uploads/img-5655.jpg
+    image_title: DR/A1 Terra-sigillata Bowl
+    image_description: >-
+      Terra-sigillata Bowl Form "Winding Line" with mottled interior. Height: 14
+      cm. Price in GBP: £430.00
+  - image_path: /uploads/img-5657.jpg
+    image_title: DR/A1 View 2
+    image_description: >-
+      Terra-sigillata Bowl Form "Winding Line" with mottled interior. Height 14
+      cm. Price: £430.00
 display_title: true
 cols: 2
 _options:
