@@ -16,26 +16,6 @@ _gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/new-work/
 main_image_path:
 images:
-  - image_path: /uploads/img-5495.jpg
-    image_title: DR/E3 Terra-sigillata Bowl
-    image_description: |-
-      Bowl with dark mottled interior. Height: 15 cm.
-      Price in GBP: SOLD
-  - image_path: /uploads/img-5496.jpg
-    image_title: DR/E3 View 2
-    image_description: |-
-      DR/E3 Terra-sigillata bowl. Height 15cm.
-      Price in GBP: SOLD
-  - image_path: /uploads/img-5328.jpg
-    image_title: DR/M4 Tall Landscape Vessel
-    image_description: |-
-      Tall Landscape terra sigillata vessel.
-      Height: 26 cm.  Price SOLD
-  - image_path: /uploads/img-5327.jpg
-    image_title: DR/M4 Tall Landscape Vessel
-    image_description: |-
-      View 2  Tall Landscape terrasigillata vessel. Height: 26 cm.
-      Price: SOLD
   - image_path: /uploads/drn16-3.jpg
     image_title: DR/N16 Dark Bowl
     image_description: |-
@@ -47,18 +27,6 @@ images:
       Dark terra-sigillata Bowl. 
       Height: 14 cm
       Price: £600.00
-  - image_path: /uploads/img-5557.jpg
-    image_title: DR/T14 Small Bowl
-    image_description: >-
-      DR/T14 Small terra-sigillata bowl with mottled interior.  Height: 11.5
-      cm. 
-
-      Price in GBP: £250.00
-  - image_path: /uploads/img-5558.jpg
-    image_title: DR/T14 Small Bowl View 2
-    image_description: |-
-      DR/T14 Small Terra-sigillata Bowl. Height; 11.5 cm
-      Price in GBP: £250.00
   - image_path: /uploads/img-5337.jpg
     image_title: DR/S1 Medium-Dark Banded Vessel.
     image_description: 'DR/S1 Medium-Dark  Banded Vessel. Height: 16.5 cm. Price: £430.00'
@@ -67,12 +35,6 @@ images:
     image_description: >-
       Medium-Dark  terra-sigillata Banded Vessel. View 2 Height: 16.5 cm. Price:
       £430.00
-  - image_path: /uploads/img-5114.jpg
-    image_title: DR/S6  Kite Tails. Terra-sigillata Bowl
-    image_description: |-
-      Terra-sigillata Bowl. 
-      Height: 19 cm.
-      Price in GBP: SOLD
   - image_path: /uploads/img-5110.jpg
     image_title: DR/S3 Terra-sigillata Vessel
     image_description: |-
@@ -93,7 +55,7 @@ images:
     image_title: DR/M7 Dark Terra-sigillata Vessel
     image_description: |-
       Dark Terra-sigillata Vessel. Height:  20 cm.  
-      Price in GBP: £1400.00  RESERVED
+      Price in GBP: £1400.00
 display_title: true
 cols: 2
 _options:
