@@ -96,7 +96,7 @@ images:
     image_description: >-
       Terra-sigillata Vessel Form with mottled interior.  Height:  18 cm.  
       Price in GBP:  £850.00
-  - image_path: /uploads/img-5680.jpg
+  - image_path: /uploads/img-5682.jpg
     image_title: DR/A5 Terra-sigillata Vessel Form.
     image_description: DR/A5 Terra-sigillata Vessel Form. View 2
 display_title: true
