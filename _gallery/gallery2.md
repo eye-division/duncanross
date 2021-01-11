@@ -80,7 +80,7 @@ images:
   - image_path: /uploads/img-5750.jpg
     image_title: 'DR/A4  Deep Bowl "Sun, Moon and Stars"'
     image_description: |-
-      Terra-sigillata deep Bow: "Sun,Moon and Stars"  with mottled interior. 
+      Terra-sigillata Deep Bowl: "Sun,Moon and Stars"  with mottled interior. 
       Height: 22 cm.  Price in GBP:  £2000.00
   - image_path: /uploads/img-5751.jpg
     image_title: 'DR/A4  "Sun, Moon and Stars" View 2'
