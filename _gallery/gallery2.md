@@ -69,6 +69,14 @@ images:
     image_description: >-
       Medium-Dark Terra-sigillata Vessel. Height: 22.5 cm. Price in GBP:
       £1500.00
+  - image_path: /uploads/img-5758.jpg
+    image_title: DR/A3 Balancing Form
+    image_description: >-
+      Terra-sigillata Balancing Form with wood and textile ring.  Base to rim
+      without ring: 14 cm. Price in GBP: £400.00
+  - image_path: /uploads/img-5759.jpg
+    image_title: DR/A3 View 2
+    image_description: 'Terra-sigillata Balancing Form, view 2'
 display_title: true
 cols: 2
 _options:
@@ -89,5 +97,4 @@ _comments:
   images: Add and edit your gallery images here
   image_description: May only be used in the close up of an image
 ---
-
 
