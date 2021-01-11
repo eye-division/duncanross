@@ -53,12 +53,12 @@ images:
     image_description: >-
       Medium-Dark  terra-sigillata Banded Vessel. View 2 Height: 16.5 cm. Price:
       £430.00
-  - image_path: /uploads/img-5110.jpg
+  - image_path: /uploads/img-5781.jpg
     image_title: DR/S3 Terra-sigillata Vessel
     image_description: |-
       Terra-sigillata Vessel. Height: 17.5 cm
       Price in GBP: £800.00
-  - image_path: /uploads/img-5117.jpg
+  - image_path: /uploads/img-5783.jpg
     image_title: DR/S5 Terra-sigillata Vessel
     image_description: 'Terra-sigillata Vessel.   Height: 20 cm. Price in GBP: £800.00'
   - image_path: /uploads/img-5121.jpg
@@ -85,6 +85,20 @@ images:
   - image_path: /uploads/img-5751.jpg
     image_title: 'DR/A4  "Sun, Moon and Stars" View 2'
     image_description: 'Terra sigillata Deep Bowl. "Sun, Moon and Stars" View 2'
+  - image_path: /uploads/img-5680.jpg
+    image_title: DR/A5 Terra-sigillata Vessel Form
+    image_description: >-
+      Terra-sigillata Vessel Form with mottled interior.  Height:  18 cm.  
+      Price in GBP:  £850.00
+  - image_path: /uploads/img-5680.jpg
+    image_title: DR/A5 Terra-sigillata Vessel Form.
+    image_description: DR/A5 Terra-sigillata Vessel Form. View 2
+  - image_path: /uploads/img-5782.jpg
+    image_title: DR/S3 Terra-sigillata Vessel
+    image_description: Terra-sigillata Vessel. View 2
+  - image_path: /uploads/img-5784.jpg
+    image_title: DR/S5 Terra-sigillata Vessel
+    image_description: Terra-sigillata vessel View 2
 display_title: true
 cols: 2
 _options:
