@@ -77,6 +77,14 @@ images:
   - image_path: /uploads/img-5759.jpg
     image_title: DR/A3 View 2
     image_description: 'Terra-sigillata Balancing Form, view 2'
+  - image_path: /uploads/img-5750.jpg
+    image_title: 'DR/A4  Deep Bowl "Sun, Moon and Stars"'
+    image_description: |-
+      Terra-sigillata deep Bow: "Sun,Moon and Stars"  with mottled interior. 
+      Height: 22 cm.  Price in GBP:  £2000.00
+  - image_path: /uploads/img-5751.jpg
+    image_title: 'DR/A4  "Sun, Moon and Stars" View 2'
+    image_description: 'Terra sigillata Deep Bowl. "Sun, Moon and Stars" View 2'
 display_title: true
 cols: 2
 _options:
