@@ -85,6 +85,9 @@ images:
   - image_path: /uploads/img-5751.jpg
     image_title: 'DR/A4  "Sun, Moon and Stars" View 2'
     image_description: 'Terra sigillata Deep Bowl. "Sun, Moon and Stars" View 2'
+  - image_path:
+    image_title:
+    image_description:
 display_title: true
 cols: 2
 _options:
