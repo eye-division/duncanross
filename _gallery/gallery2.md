@@ -65,10 +65,10 @@ images:
   - image_path: /uploads/img-5782-1.jpg
     image_title: DR/S3 Terra-sigillata Vessel
     image_description: Terra-sigillata Vessel. View 2
-  - image_path: /uploads/img-5783.jpg
+  - image_path: /uploads/img-5783-1.jpg
     image_title: DR/S5 Terra-sigillata Vessel
     image_description: 'Terra-sigillata Vessel.   Height: 20 cm. Price in GBP: £800.00'
-  - image_path: /uploads/img-5784.jpg
+  - image_path: /uploads/img-5784-1.jpg
     image_title: DR/S5 Terra-sigillata Vessel
     image_description: Terra-sigillata vessel View 2
   - image_path: /uploads/img-5121.jpg
