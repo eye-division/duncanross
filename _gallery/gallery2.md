@@ -82,19 +82,21 @@ images:
   - image_path: /uploads/img-5778.jpg
     image_title: DR/A3 Balancing Form
     image_description: >-
-      Terra-sigillata Balancing Form with wood and textile ring.  Base to rim
-      without ring: 14 cm. Price in GBP: £400.00
+      Terra-sigillata Balancing Form sits on a wood and textile ring. Base to
+      rim measurement without ring: 14 cm. Price in GBP: £400.00
   - image_path: /uploads/img-5779.jpg
     image_title: DR/A3 View 2
     image_description: 'Terra-sigillata Balancing Form, view 2'
   - image_path: /uploads/img-5750.jpg
     image_title: 'DR/A4  Deep Bowl "Sun, Moon and Stars"'
-    image_description: |-
-      Terra-sigillata Deep Bowl: "Sun,Moon and Stars"  with mottled interior. 
-      Height: 22 cm.  Price in GBP:  £2000.00
+    image_description: >-
+      Terra-sigillata Deep Bowl: "Sun, Moon and Stars". Mottled interior.
+      Height: 22 cm.
+
+      Diameter across the rim: 19.5 cm. Price in GBP: £2000.00
   - image_path: /uploads/img-5751.jpg
     image_title: 'DR/A4  "Sun, Moon and Stars" View 2'
-    image_description: 'Terra sigillata Deep Bowl. "Sun, Moon and Stars" View 2'
+    image_description: 'Terra-sigillata Deep Bowl. "Sun, Moon and Stars" View  2'
   - image_path: /uploads/img-5680.jpg
     image_title: DR/A5 Terra-sigillata Vessel Form
     image_description: >-
