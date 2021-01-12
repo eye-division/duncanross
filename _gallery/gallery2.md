@@ -57,12 +57,12 @@ images:
     image_description: >-
       Medium-Dark  terra-sigillata Banded Vessel. View 2 Height: 16.5 cm. Price:
       £430.00
-  - image_path: /uploads/img-5781.jpg
+  - image_path: /uploads/img-5781-1.jpg
     image_title: DR/S3 Terra-sigillata Vessel
     image_description: |-
       Terra-sigillata Vessel. Height: 17.5 cm
       Price in GBP: £800.00
-  - image_path: /uploads/img-5782.jpg
+  - image_path: /uploads/img-5782-1.jpg
     image_title: DR/S3 Terra-sigillata Vessel
     image_description: Terra-sigillata Vessel. View 2
   - image_path: /uploads/img-5783.jpg
