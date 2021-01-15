@@ -30,11 +30,7 @@ images:
       Price: £430.00
   - image_path: /uploads/img-5743.jpg
     image_title: DR/A2  Dark Terra-sigillata Bowl "Winding Line'
-    image_description: >-
-      Dark Terra-sigillata Bowl.  "Winding Line".  Mottled interior. Height:
-      18.5 cm. 
-
-      Price in GBP: £1400.00.
+    image_description:
   - image_path: /uploads/img-5744.jpg
     image_title: DR/A2 Dark Terra-sigillata Bowl
     image_description: Dark Terra-sigillata Bowl Form. View 2
