@@ -88,15 +88,15 @@ images:
     image_title: DR/A3 View 2
     image_description: 'Terra-sigillata Balancing Form, view 2 SOLD'
   - image_path: /uploads/img-5750.jpg
-    image_title: 'DR/A4  Deep Bowl "Sun, Moon and Stars"'
+    image_title: 'DR/A4  Deep Bowl  ''Sun, Moon and Stars'''
     image_description: >-
-      Terra-sigillata Deep Bowl: "Sun, Moon and Stars". Mottled interior.
+      Terra-sigillata Deep Bowl: 'Sun, Moon and Stars'. Mottled interior.
       Height: 22 cm.
 
       Diameter across the rim: 19.5 cm. Price in GBP: £2000.00
   - image_path: /uploads/img-5751.jpg
-    image_title: 'DR/A4  "Sun, Moon and Stars" View 2'
-    image_description: 'Terra-sigillata Deep Bowl. "Sun, Moon and Stars" View  2'
+    image_title: 'DR/A4  ''Sun, Moon and Stars'' View 2'
+    image_description: 'Terra-sigillata Deep Bowl. ''Sun, Moon and Stars''  View  2'
   - image_path: /uploads/img-5680.jpg
     image_title: DR/A5 Terra-sigillata Vessel Form
     image_description: >-
@@ -125,3 +125,4 @@ _comments:
   images: Add and edit your gallery images here
   image_description: May only be used in the close up of an image
 ---
+
