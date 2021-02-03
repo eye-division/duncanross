@@ -16,7 +16,7 @@ _gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/new-work/
 main_image_path:
 images:
-  - image_path: /uploads/img-5821.jpg
+  - image_path: /uploads/img-5821-1.jpg
     image_title: DR/A6 Terra-sigillata Bowl
     image_description: >-
       Terra-sigillata bowl with mottled interior. Height:   16 cm. Diameter: 19
