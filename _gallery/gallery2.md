@@ -23,7 +23,7 @@ images:
       cm. 
 
       Price in GBP: £700.00
-  - image_path: /uploads/img-5824.jpg
+  - image_path: /uploads/img-5824-1.jpg
     image_title: DR/A6 View 2
     image_description: 'Terra-sigillata Bowl, view 2.'
   - image_path: /uploads/img-5827.jpg
