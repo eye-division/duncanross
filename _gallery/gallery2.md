@@ -35,7 +35,7 @@ images:
   - image_path: /uploads/img-5829.jpg
     image_title: DR/A7 View 2
     image_description: 'Terra-sigillata Vessel: View 2'
-  - image_path: /uploads/img-5833.jpg
+  - image_path: /uploads/img-5832.jpg
     image_title: DR/A8 Terra-sigillata vessel Form
     image_description: >-
       Terra-sigillata vessel form with mottled interior. Height: 16 cm.  Price
