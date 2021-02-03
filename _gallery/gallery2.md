@@ -16,6 +16,33 @@ _gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/new-work/
 main_image_path:
 images:
+  - image_path: /uploads/img-5821.jpg
+    image_title: DR/A6 Terra-sigillata Bowl
+    image_description: >-
+      Terra-sigillata bowl with mottled interior. Height:   16 cm. Diameter: 19
+      cm. 
+
+      Price in GBP: £700.00
+  - image_path: /uploads/img-5824.jpg
+    image_title: DR/A6 View 2
+    image_description: 'Terra-sigillata Bowl, view 2.'
+  - image_path: /uploads/img-5827.jpg
+    image_title: DR/A7 Terra-sigillata Vessel Form
+    image_description: |-
+      Terra-sigillata vessel with mottled interior. 
+      Height: 20 cm. Diameter at rim: 15 cm.
+      Price in GBP:  £1200.00
+  - image_path: /uploads/img-5829.jpg
+    image_title: DR/A7 View 2
+    image_description: 'Terra-sigillata Vessel: View 2'
+  - image_path: /uploads/img-5833.jpg
+    image_title: DR/A8 Terra-sigillata vessel Form
+    image_description: >-
+      Terra-sigillata vessel form with mottled interior. Height: 16 cm.  Price
+      in GBP: £500.00
+  - image_path: /uploads/img-5833-2.jpg
+    image_title: DR/A8 View 2
+    image_description: DR/A8 View 2
   - image_path: /uploads/img-5655.jpg
     image_title: DR/A1 Terra-sigillata Bowl
     image_description: >-
