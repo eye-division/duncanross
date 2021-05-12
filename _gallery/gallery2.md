@@ -93,28 +93,17 @@ images:
   - image_path: /uploads/img-5751.jpg
     image_title: 'DR/A4  ''Sun, Moon and Stars'' View 2'
     image_description: 'Terra-sigillata Deep Bowl. ''Sun, Moon and Stars''  View  2'
-  - image_path: /uploads/img-5680.jpg
-    image_title: DR/A5 Terra-sigillata Vessel Form
-    image_description: >-
-      Terra-sigillata Vessel Form with mottled interior.  Height:  18 cm.  
-      Price in GBP:  SOLD
   - image_path: /uploads/img-5682.jpg
-    image_title: DR/A5 Terra-sigillata Vessel Form.
-    image_description: DR/A5 Terra-sigillata Vessel Form. SOLD
+    image_title: DR/A5 Terra-sigillata Vessel Form. SOLD
+    image_description:
   - image_path: /uploads/img-5778.jpg
-    image_title: DR/A3 Balancing Form
+    image_title: DR/A3 Balancing Form. SOLD
     image_description: >-
       Terra-sigillata Balancing Form sits on a wood and textile ring. Base to
       rim measurement without ring: 14 cm. Price in GBP: SOLD
-  - image_path: /uploads/img-5779.jpg
-    image_title: DR/A3 View 2
-    image_description: 'Terra-sigillata Balancing Form, view 2 SOLD'
   - image_path: /uploads/img-5784-1.jpg
-    image_title: DR/S5 Terra-sigillata Vessel
+    image_title: DR/S5 Terra-sigillata Vessel SOLD
     image_description: Terra-sigillata vessel View 2 SOLD
-  - image_path: /uploads/img-5783-1.jpg
-    image_title: DR/S5 Terra-sigillata Vessel
-    image_description: 'Terra-sigillata Vessel.   Height: 20 cm. Price in GBP: SOLD'
   - image_path: /uploads/img-5655.jpg
     image_title: DR/A1 Terra-sigillata Bowl
     image_description: >-
@@ -122,11 +111,6 @@ images:
       cm.
 
       Price in GBP: SOLD
-  - image_path: /uploads/img-5657.jpg
-    image_title: DR/A1 View 2
-    image_description: |-
-      Terra-sigillata Bowl Form 'Winding Line'. Mottled interior. Height 14 cm. 
-      Price: SOLD
   - image_path: /uploads/img-6233.jpg
     image_title: DR/B5 Terra-sigillata Bowl Form
     image_description: |-
