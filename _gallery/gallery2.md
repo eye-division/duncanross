@@ -49,18 +49,6 @@ images:
   - image_path: /uploads/img-5833-2.jpg
     image_title: DR/A8 View 2
     image_description: DR/A8 View 2
-  - image_path: /uploads/img-5655.jpg
-    image_title: DR/A1 Terra-sigillata Bowl
-    image_description: >-
-      Terra-sigillata Bowl Form 'Winding Line'.  Mottled interior. Height: 14
-      cm.
-
-      Price in GBP: SOLD
-  - image_path: /uploads/img-5657.jpg
-    image_title: DR/A1 View 2
-    image_description: |-
-      Terra-sigillata Bowl Form 'Winding Line'. Mottled interior. Height 14 cm. 
-      Price: SOLD
   - image_path: /uploads/img-5743.jpg
     image_title: DR/A2  Dark Terra-sigillata Bowl 'Winding Line'
     image_description: >-
@@ -138,6 +126,18 @@ images:
   - image_path: /uploads/img-5682.jpg
     image_title: DR/A5 Terra-sigillata Vessel Form.
     image_description: DR/A5 Terra-sigillata Vessel Form. SOLD
+  - image_path: /uploads/img-5655.jpg
+    image_title: DR/A1 Terra-sigillata Bowl
+    image_description: >-
+      Terra-sigillata Bowl Form 'Winding Line'.  Mottled interior. Height: 14
+      cm.
+
+      Price in GBP: SOLD
+  - image_path: /uploads/img-5657.jpg
+    image_title: DR/A1 View 2
+    image_description: |-
+      Terra-sigillata Bowl Form 'Winding Line'. Mottled interior. Height 14 cm. 
+      Price: SOLD
 display_title: true
 cols: 2
 _options:
@@ -158,5 +158,4 @@ _comments:
   images: Add and edit your gallery images here
   image_description: May only be used in the close up of an image
 ---
-
 
