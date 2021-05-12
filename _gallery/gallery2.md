@@ -70,14 +70,6 @@ images:
       Dark terra-sigillata Bowl. 
       Height: 14 cm
       Price: £600.00
-  - image_path: /uploads/img-5337.jpg
-    image_title: DR/S1 Medium-Dark Banded Vessel.
-    image_description: 'DR/S1 Medium-Dark  Banded Vessel. Height: 16.5 cm. Price: £430.00'
-  - image_path: /uploads/img-5336.jpg
-    image_title: DR/S1 Medium-Dark Banded Vessel
-    image_description: >-
-      Medium-Dark  terra-sigillata Banded Vessel. View 2 Height: 16.5 cm. Price:
-      £430.00
   - image_path: /uploads/img-5781-1.jpg
     image_title: DR/S3 Terra-sigillata Vessel
     image_description: |-
@@ -86,12 +78,6 @@ images:
   - image_path: /uploads/img-5782-1.jpg
     image_title: DR/S3 Terra-sigillata Vessel
     image_description: Terra-sigillata Vessel. View 2
-  - image_path: /uploads/img-5783-1.jpg
-    image_title: DR/S5 Terra-sigillata Vessel
-    image_description: 'Terra-sigillata Vessel.   Height: 20 cm. Price in GBP: SOLD'
-  - image_path: /uploads/img-5784-1.jpg
-    image_title: DR/S5 Terra-sigillata Vessel
-    image_description: Terra-sigillata vessel View 2 SOLD
   - image_path: /uploads/img-5121.jpg
     image_title: DR/S2 Terra-sigillata Vessel.
     image_description: 'Terra-sigillata Vessel. Height: 18 cm. Price in GBP: £800.00'
@@ -100,14 +86,6 @@ images:
     image_description: >-
       Medium-Dark Terra-sigillata Vessel. Height: 22.5 cm. Price in GBP:
       £1500.00
-  - image_path: /uploads/img-5778.jpg
-    image_title: DR/A3 Balancing Form
-    image_description: >-
-      Terra-sigillata Balancing Form sits on a wood and textile ring. Base to
-      rim measurement without ring: 14 cm. Price in GBP: SOLD
-  - image_path: /uploads/img-5779.jpg
-    image_title: DR/A3 View 2
-    image_description: 'Terra-sigillata Balancing Form, view 2 SOLD'
   - image_path: /uploads/img-5750.jpg
     image_title: 'DR/A4  Deep Bowl  ''Sun, Moon and Stars'''
     image_description: >-
@@ -126,6 +104,20 @@ images:
   - image_path: /uploads/img-5682.jpg
     image_title: DR/A5 Terra-sigillata Vessel Form.
     image_description: DR/A5 Terra-sigillata Vessel Form. SOLD
+  - image_path: /uploads/img-5778.jpg
+    image_title: DR/A3 Balancing Form
+    image_description: >-
+      Terra-sigillata Balancing Form sits on a wood and textile ring. Base to
+      rim measurement without ring: 14 cm. Price in GBP: SOLD
+  - image_path: /uploads/img-5779.jpg
+    image_title: DR/A3 View 2
+    image_description: 'Terra-sigillata Balancing Form, view 2 SOLD'
+  - image_path: /uploads/img-5784-1.jpg
+    image_title: DR/S5 Terra-sigillata Vessel
+    image_description: Terra-sigillata vessel View 2 SOLD
+  - image_path: /uploads/img-5783-1.jpg
+    image_title: DR/S5 Terra-sigillata Vessel
+    image_description: 'Terra-sigillata Vessel.   Height: 20 cm. Price in GBP: SOLD'
   - image_path: /uploads/img-5655.jpg
     image_title: DR/A1 Terra-sigillata Bowl
     image_description: >-
