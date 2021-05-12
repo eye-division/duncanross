@@ -145,12 +145,12 @@ images:
     image_title: DR/S5 Terra-sigillata Vessel SOLD
     image_description: Terra-sigillata vessel View 2 SOLD
   - image_path: /uploads/img-5655.jpg
-    image_title: DR/A1 Terra-sigillata Bowl
+    image_title: DR/A1 Terra-sigillata Bowl.  SOLD
     image_description: >-
       Terra-sigillata Bowl Form 'Winding Line'.  Mottled interior. Height: 14
       cm.
 
-      Price in GBP: SOLD
+      Price in GBP:
 display_title: true
 cols: 2
 _options:
