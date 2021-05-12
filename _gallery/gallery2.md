@@ -150,7 +150,7 @@ images:
       Terra-sigillata Bowl Form 'Winding Line'.  Mottled interior. Height: 14
       cm.
 
-      Price in GBP:
+      Price in GBP: SOLD
 display_title: true
 cols: 2
 _options:
