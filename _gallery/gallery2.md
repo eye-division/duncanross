@@ -127,6 +127,46 @@ images:
     image_description: |-
       Terra-sigillata Bowl Form 'Winding Line'. Mottled interior. Height 14 cm. 
       Price: SOLD
+  - image_path: /uploads/img-6233.jpg
+    image_title: DR/B5 Terra-sigillata Bowl Form
+    image_description: |-
+      DR/B5 Terra-sigillata Bowl with mottled interior. Height: 14.5 cm
+      Price: £600.00
+  - image_path: /uploads/img-6234.jpg
+    image_title: DR/B5 View 2
+    image_description: DR/B5 View 2
+  - image_path: /uploads/img-6247.jpg
+    image_title: DR/B4 Terra-sigillata Balancing bowl
+    image_description: >-
+      DR/B4  Terra-sigillata balancing bowl, mottled interior. Height: 12 cm.
+      Price GBP: £400.00
+  - image_path: /uploads/img-6250.jpg
+    image_title: DR/B4  View 2
+    image_description: DR/B4 View 2
+  - image_path: /uploads/img-6242.jpg
+    image_title: DR/B2 Terra-sigillata Bowl Form
+    image_description: >-
+      DR/B2 Terra-sigillata Bowl, mottled interior. Height: 12 cm. Price in GBP:
+      £600.00
+  - image_path: /uploads/img-6245.jpg
+    image_title: DR/B2 View 2
+    image_description: DR/B2 View 2
+  - image_path: /uploads/img-6231.jpg
+    image_title: DR/B1 Terra-sigillata Bowl.
+    image_description: >-
+      DR/B1 Terra-sigillata Bowl, mottled interior. Leaf shape repeated on
+      reverse side.  Height: 13 cm. Price in GBP: £550.00
+  - image_path: /uploads/img-6230.jpg
+    image_title: DR/B1 View 2
+    image_description: DR/B1. View 2.
+  - image_path: /uploads/img-6263.jpg
+    image_title: DR/B8 Terra-sigillata Vessel Form.
+    image_description: >-
+      DR/B8 Terra-sigillata Vessel Form with mottled interior. Height: 19 cm.
+      Price in GBP: £ 1100.00
+  - image_path: /uploads/img-6266.jpg
+    image_title: DR/B8 View 2
+    image_description: DR/B8 View 2
 display_title: true
 cols: 2
 _options:
