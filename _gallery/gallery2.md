@@ -55,7 +55,7 @@ images:
       Price in GBP: £ 1100.00  RESERVED
   - image_path: /uploads/img-6266.jpg
     image_title: DR/B8 View 2
-    image_description: DR/B8 View 2
+    image_description: DR/B8 View 2 RESERVED
   - image_path: /uploads/img-5821-2.jpg
     image_title: DR/A6 Terra-sigillata Bowl
     image_description: >-
