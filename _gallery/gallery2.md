@@ -1,17 +1,11 @@
 ---
 title: New Work
-description_markdown: >-
-  Selected work available now.&nbsp;
-
+description_markdown: |-
+  Selected work available now.
 
   Open thumbnails for expanded view and details.
 
-
-  &nbsp;If you would like further information please see the [Contact](/contact)
-  page.
-
-
-  &nbsp;
+   If you would like further information please see the [Contact](/contact) page.
 _gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/new-work/
 main_image_path: /uploads/img-6263-1.jpg
@@ -52,10 +46,10 @@ images:
     image_title: DR/B8 Terra-sigillata Vessel Form.
     image_description: >-
       DR/B8 Terra-sigillata Vessel Form with mottled interior. Height: 19 cm.
-      Price in GBP: £ 1100.00  RESERVED
+      SOLD
   - image_path: /uploads/img-6266.jpg
     image_title: DR/B8 View 2
-    image_description: DR/B8 View 2 RESERVED
+    image_description: DR/B8 View 2 SOLD
   - image_path: /uploads/img-5821-2.jpg
     image_title: DR/A6 Terra-sigillata Bowl
     image_description: >-
