@@ -43,12 +43,12 @@ images:
     image_title: DR/B1 View 2
     image_description: DR/B1. View 2.
   - image_path: /uploads/img-6263.jpg
-    image_title: DR/B8 Terra-sigillata Vessel Form.
+    image_title: DR/B8 Terra-sigillata Vessel Form. SOLD
     image_description: >-
       DR/B8 Terra-sigillata Vessel Form with mottled interior. Height: 19 cm.
       SOLD
   - image_path: /uploads/img-6266.jpg
-    image_title: DR/B8 View 2
+    image_title: DR/B8 View 2  SOLD
     image_description: DR/B8 View 2 SOLD
   - image_path: /uploads/img-5821-2.jpg
     image_title: DR/A6 Terra-sigillata Bowl
