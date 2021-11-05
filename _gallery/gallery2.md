@@ -26,37 +26,6 @@ images:
   - image_path: /uploads/img-6245.jpg
     image_title: DR/B2 View 2
     image_description: DR/B2 View 2
-  - image_path: /uploads/img-6231.jpg
-    image_title: DR/B1 Terra-sigillata Bowl.
-    image_description: >-
-      DR/B1 Terra-sigillata Bowl, mottled interior. Leaf shape repeated on
-      reverse side.  Height: 13 cm. Price in GBP: £380.00
-  - image_path: /uploads/img-5743.jpg
-    image_title: DR/A2  Dark Terra-sigillata Bowl 'Winding Line'
-    image_description: >-
-      Dark Terra-sigillata Bowl.  'Winding Line'.  Mottled interior. Height:
-      18.5 cm. 
-
-      Price in GBP: £1400.00.
-  - image_path: /uploads/img-5744.jpg
-    image_title: DR/A2 Dark Terra-sigillata Bowl
-    image_description: Dark Terra-sigillata Bowl Form. View 2
-  - image_path: /uploads/drn16-3.jpg
-    image_title: DR/N16 Dark Bowl
-    image_description: |-
-      Dark terra-sigillata Bowl. Height: 14 cm
-      Price: £500.00
-  - image_path: /uploads/drn16-4.jpg
-    image_title: DR/N16  Dark Bowl View 2
-    image_description: |-
-      Dark terra-sigillata Bowl. 
-      Height: 14 cm
-      Price: £600.00
-  - image_path: /uploads/img-5124.jpg
-    image_title: DR/P10 Terra-sigillata Vessel
-    image_description: >-
-      Medium-Dark Terra-sigillata Vessel. Height: 22.5 cm. Price in GBP:
-      £1500.00
   - image_path: /uploads/img-5750.jpg
     image_title: DR/A4  Deep Bowl  'Sun, Moon and Stars'
     image_description: >-
