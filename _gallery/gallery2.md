@@ -26,6 +26,14 @@ images:
   - image_path: /uploads/img-6433.JPG
     image_title: DR/B17 View 2
     image_description: DR/B17 View 2
+  - image_path: /uploads/img-6441.JPG
+    image_title: DR/B20 Terra-sigillata Bowl
+    image_description: >-
+      DR/B20 Terra-sigillata Bowl. Mottled interior. Height: 17.5 cm. Price in
+      GBP:
+  - image_path: /uploads/img-6442.JPG
+    image_title: DR/B20 View 2
+    image_description: DR/B20 View 2
   - image_path: /uploads/img-6247.jpg
     image_title: DR/B4 Terra-sigillata Balancing bowl
     image_description: >-
