@@ -10,9 +10,14 @@ _gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/new-work/
 main_image_path:
 images:
-  - image_path: /uploads/img-6432.JPG
+  - image_path: /uploads/img-6437.JPG
     image_title: DR/B19 Terra-sigillata Small Bowl
-    image_description: 'DR/B19 Terra-sigillata Small Bowl.  Height: 11.5cm'
+    image_description: >-
+      DR/B19 Terra-sigillata small bowl with mottled interior. Height: 11.5 cm.
+      Price in GBP: 
+  - image_path: /uploads/img-6432.JPG
+    image_title: DR/B19 View 2
+    image_description: DR/B19 View 2
   - image_path: /uploads/img-6247.jpg
     image_title: DR/B4 Terra-sigillata Balancing bowl
     image_description: >-
