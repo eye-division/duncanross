@@ -50,6 +50,12 @@ images:
   - image_path: /uploads/img-6445.JPG
     image_title: DR/B22 View 2
     image_description: DR/B22 View 2
+  - image_path: /uploads/img-6450.JPG
+    image_title: DR/B30 Dark Bowl.
+    image_description: 'DR/B30 Terra-sigillata dark bowl. Height: 14 cm. Price in GBP:'
+  - image_path: /uploads/img-6451.JPG
+    image_title: DR/B30 View 2
+    image_description: DR/B30 View 2
   - image_path: /uploads/img-6247.jpg
     image_title: DR/B4 Terra-sigillata Balancing bowl
     image_description: >-
