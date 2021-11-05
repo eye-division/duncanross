@@ -10,6 +10,9 @@ _gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/new-work/
 main_image_path:
 images:
+  - image_path: /uploads/img-6432.JPG
+    image_title: DR/B19 Terra-sigillata Small Bowl
+    image_description: 'DR/B19 Terra-sigillata Small Bowl.  Height: 11.5cm'
   - image_path: /uploads/img-6247.jpg
     image_title: DR/B4 Terra-sigillata Balancing bowl
     image_description: >-
