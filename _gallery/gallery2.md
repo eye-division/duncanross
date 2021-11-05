@@ -10,6 +10,62 @@ _gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/new-work/
 main_image_path:
 images:
+  - image_path: /uploads/img-6437.JPG
+    image_title: DR/B19 Terra-sigillata Small Bowl
+    image_description: >-
+      DR/B19 Terra-sigillata small bowl with mottled interior. Height: 11.5 cm.
+      Price in GBP: £280.00
+  - image_path: /uploads/img-6432.JPG
+    image_title: DR/B19 View 2
+    image_description: DR/B19 View 2
+  - image_path: /uploads/img-6435.JPG
+    image_title: DR/B17 Terra-sigillata  Floating Seeds
+    image_description: >-
+      DR/B17  Terra-sigillata small bowl "Floating Seeds". Mottled interior.
+      Height: 14 cm. Price in GBP: £330.00
+  - image_path: /uploads/img-6433.JPG
+    image_title: DR/B17 View 2
+    image_description: DR/B17 View 2
+  - image_path: /uploads/img-6441.JPG
+    image_title: DR/B20 Terra-sigillata Bowl
+    image_description: |-
+      DR/B20 Terra-sigillata Bowl. Mottled interior. Height: 17.5 cm. 
+      Price in GBP: £620.00
+  - image_path: /uploads/img-6442.JPG
+    image_title: DR/B20 View 2
+    image_description: DR/B20 View 2
+  - image_path: /uploads/img-6439.JPG
+    image_title: DR/B16 Kite Tails
+    image_description: >-
+      DR/B16 Terra-sigillata vessel form with mottled interior. Height: 22.5
+      cm. 
+
+      Price in GBP:  £1050.00
+  - image_path: /uploads/img-6440.JPG
+    image_title: DR/B16 View 2
+    image_description: DR/B16 View 2
+  - image_path: /uploads/img-6444.JPG
+    image_title: DR/B22 Terra-sigillata Vessel Form
+    image_description: |-
+      DR/B22 Terra-sigillata vessel form with mottled interior. Height: 16 cm. 
+      Price in GBP: £600.00
+  - image_path: /uploads/img-6445.JPG
+    image_title: DR/B22 View 2
+    image_description: DR/B22 View 2
+  - image_path: /uploads/img-6450.JPG
+    image_title: DR/B30 Dark Bowl.
+    image_description: 'DR/B30 Terra-sigillata dark bowl. Height: 14 cm. Price in GBP: £400.00'
+  - image_path: /uploads/img-6451.JPG
+    image_title: DR/B30 View 2
+    image_description: DR/B30 View 2
+  - image_path: /uploads/img-6448.JPG
+    image_title: DR/B18 Terra-sigillata Vessel Form.
+    image_description: |-
+      DR/B18 Terra-sigillata vessel form with mottled interior. Height: 17 cm. 
+      Price in GBP: £700.00
+  - image_path: /uploads/img-6449.JPG
+    image_title: DR/B18 View 2
+    image_description: DR/B18 View 2
   - image_path: /uploads/img-6247.jpg
     image_title: DR/B4 Terra-sigillata Balancing bowl
     image_description: >-
