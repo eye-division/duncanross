@@ -26,11 +26,6 @@ images:
   - image_path: /uploads/img-6245.jpg
     image_title: DR/B2 View 2
     image_description: DR/B2 View 2
-  - image_path: /uploads/img-6231.jpg
-    image_title: DR/B1 Terra-sigillata Bowl.
-    image_description: >-
-      DR/B1 Terra-sigillata Bowl, mottled interior. Leaf shape repeated on
-      reverse side.  Height: 13 cm. Price in GBP: £380.00
   - image_path: /uploads/img-5750.jpg
     image_title: DR/A4  Deep Bowl  'Sun, Moon and Stars'
     image_description: >-
