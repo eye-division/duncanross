@@ -34,6 +34,14 @@ images:
   - image_path: /uploads/img-6442.JPG
     image_title: DR/B20 View 2
     image_description: DR/B20 View 2
+  - image_path: /uploads/img-6439.JPG
+    image_title: DR/B16 Kite Tails
+    image_description: >-
+      DR/B16 Terra-sigillata vessel form with mottled interior. Height: 22.5 cm.
+      Price in GBP:
+  - image_path: /uploads/img-6440.JPG
+    image_title: DR/B16 View 2
+    image_description: DR/B16 View 2
   - image_path: /uploads/img-6247.jpg
     image_title: DR/B4 Terra-sigillata Balancing bowl
     image_description: >-
