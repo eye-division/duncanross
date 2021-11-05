@@ -42,6 +42,14 @@ images:
   - image_path: /uploads/img-6440.JPG
     image_title: DR/B16 View 2
     image_description: DR/B16 View 2
+  - image_path: /uploads/img-6444.JPG
+    image_title: DR/B22 Terra-sigillata Vessel Form
+    image_description: >-
+      DR/B22 Terra-sigillata vessel form with mottled interior. Height: 16 cm.
+      Price in GBP:
+  - image_path: /uploads/img-6445.JPG
+    image_title: DR/B22 View 2
+    image_description: DR/B22 View 2
   - image_path: /uploads/img-6247.jpg
     image_title: DR/B4 Terra-sigillata Balancing bowl
     image_description: >-
