@@ -18,11 +18,11 @@ images:
   - image_path: /uploads/img-6432.JPG
     image_title: DR/B19 View 2
     image_description: DR/B19 View 2
-  - image_path: /uploads/img-6435.JPG
-    image_title: DR/B17 Terra-sigillata Small Bowl " Floating Seeds"
-    image_description: |-
-      DR/B17  Terra-sigillata small bowl "Floating Seeds". Mottled interior. 
-      Height: 14 cm. Price in GBP: £330.00
+  - image_path: /uploads/img-6433-1.JPG
+    image_title: DR/B17  Small Bowl "Floating Seeds"
+    image_description: >-
+      DR/B17. Terra-sigillata Small Bowl. "Floating Seeds"  Height: 14 cm. Price
+      in GBP: £330.00
   - image_path: /uploads/img-6433.JPG
     image_title: DR/B17 Terra-sigillata Small Bowl "Floating Seeds"
     image_description: >-
@@ -116,5 +116,4 @@ _comments:
   images: Add and edit your gallery images here
   image_description: May only be used in the close up of an image
 ---
-
 
