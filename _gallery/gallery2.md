@@ -47,10 +47,10 @@ images:
     image_title: DR/B16 View 2
     image_description: DR/B16 View 2
   - image_path: /uploads/img-6444.JPG
-    image_title: DR/B22 Terra-sigillata Vessel Form
+    image_title: DR/B22 Terra-sigillata Vessel Form SOLD
     image_description: |-
       DR/B22 Terra-sigillata vessel form with mottled interior. Height: 16 cm. 
-      Price in GBP: £600.00
+      Price in GBP: SOLD
   - image_path: /uploads/img-6445.JPG
     image_title: DR/B22 View 2
     image_description: DR/B22 View 2
@@ -77,10 +77,10 @@ images:
     image_title: DR/B4  View 2
     image_description: DR/B4 View 2
   - image_path: /uploads/img-6242.jpg
-    image_title: DR/B2 Terra-sigillata Bowl Form
+    image_title: DR/B2 Terra-sigillata Bowl Form SOLD
     image_description: >-
       DR/B2 Terra-sigillata Bowl, mottled interior. Height: 12 cm. Price in GBP:
-      £450.00
+      SOLD
   - image_path: /uploads/img-6245.jpg
     image_title: DR/B2 View 2
     image_description: DR/B2 View 2
