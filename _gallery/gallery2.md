@@ -26,8 +26,8 @@ images:
   - image_path: /uploads/img-6435-1.JPG
     image_title: DR/B17  Small Bowl "Floating Seeds" View 2
     image_description: >-
-      DR/B17 Terra-sigillata Small Bowl 'Floating Seeds' DR/B17 Terra-sigillata
-      Small Bowl 'Floating Seeds' new 2
+      DR/B17 Terra-sigillata Small Bowl Floating Seeds DR/B17 Terra-sigillata
+      Small Bowl Floating Seeds new 2
   - image_path: /uploads/img-6441.JPG
     image_title: DR/B20 Terra-sigillata Bowl
     image_description: |-
