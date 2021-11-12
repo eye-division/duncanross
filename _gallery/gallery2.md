@@ -22,7 +22,7 @@ images:
     image_title: DR/B17  Small Bowl "Floating Seeds"
     image_description: >-
       DR/B17. Terra-sigillata Small Bowl. "Floating Seeds"  Height: 14 cm. Price
-      in GBP: £330.00
+      in GBP £330.00
   - image_path: /uploads/img-6435-1.JPG
     image_title: DR/B17  Small Bowl "Floating Seeds" View 2
     image_description: >-
