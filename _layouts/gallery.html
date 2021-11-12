@@ -18,7 +18,7 @@ layout: default
     {% for image in page.images %}
       {% if image.image_path %}
       <div class="gallery-box{% if page.cols == 2 %}-large {% cycle 'alpha', 'last' %}{% else %} {%  cycle 'alpha', '', 'last' %}{% endif %}">
-        <a href="{% include imgpath.html src=image.image_path max-w=1280 %}" class="galleryphoto" data-lightbox="gallery" data-title="{{ image.image_title }} - {{ image.image_description }}">
+        <a href="{% include imgpath.html src=image.image_path max-w=1280 %}" class="galleryphoto" data-lightbox="gallery" data-title="{{ image.image_title | escape }} - {{ image.image_description | escape }}">
           {% if page.cols %}
             {% if page.cols == 2 %}
               {% include img.html src=image.image_path width=400 height=400 fit=crop alt=image.image_description %}
