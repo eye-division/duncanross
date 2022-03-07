@@ -14,9 +14,9 @@ images:
     image_title: DR/B19 Terra-sigillata Small Bowl
     image_description: >-
       DR/B19 Terra-sigillata small bowl with mottled interior. Height: 11.5 cm.
-      Price in GBP: £280.00 RESERVED
+      Price in GBP: SOLD
   - image_path: /uploads/img-6432.JPG
-    image_title: DR/B19 View 2
+    image_title: DR/B19 View 2 SOLD
     image_description: DR/B19 View 2
   - image_path: /uploads/img-6433-1.JPG
     image_title: DR/B17  Small Bowl Floating Seeds
