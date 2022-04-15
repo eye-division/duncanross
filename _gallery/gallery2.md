@@ -10,14 +10,6 @@ _gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/new-work/
 main_image_path:
 images:
-  - image_path: /uploads/img-6437.JPG
-    image_title: DR/B19 Terra-sigillata Small Bowl
-    image_description: >-
-      DR/B19 Terra-sigillata small bowl with mottled interior. Height: 11.5 cm.
-      Price in GBP: SOLD
-  - image_path: /uploads/img-6432.JPG
-    image_title: DR/B19 View 2 SOLD
-    image_description: DR/B19 View 2
   - image_path: /uploads/img-6433-1.JPG
     image_title: DR/B17  Small Bowl Floating Seeds
     image_description: >-
@@ -34,17 +26,9 @@ images:
   - image_path: /uploads/img-6442.JPG
     image_title: DR/B20 View 2
     image_description: DR/B20 View 2
-  - image_path: /uploads/img-6444.JPG
-    image_title: DR/B22 Terra-sigillata Vessel Form SOLD
-    image_description: |-
-      DR/B22 Terra-sigillata vessel form with mottled interior. Height: 16 cm. 
-      Price in GBP: SOLD
-  - image_path: /uploads/img-6445.JPG
-    image_title: DR/B22 View 2
-    image_description: DR/B22 View 2
   - image_path: /uploads/img-6450.JPG
     image_title: DR/B30 Dark Bowl.
-    image_description: 'DR/B30 Terra-sigillata dark bowl. Height: 14 cm. Price in GBP: £400.00'
+    image_description: 'DR/B30 Terra-sigillata dark bowl. Height: 14 cm. Price in GBP: £420.00'
   - image_path: /uploads/img-6451.JPG
     image_title: DR/B30 View 2
     image_description: DR/B30 View 2
@@ -56,21 +40,13 @@ images:
   - image_path: /uploads/img-6250.jpg
     image_title: DR/B4  View 2
     image_description: DR/B4 View 2
-  - image_path: /uploads/img-6242.jpg
-    image_title: DR/B2 Terra-sigillata Bowl Form SOLD
-    image_description: >-
-      DR/B2 Terra-sigillata Bowl, mottled interior. Height: 12 cm. Price in GBP:
-      SOLD
-  - image_path: /uploads/img-6245.jpg
-    image_title: DR/B2 View 2
-    image_description: DR/B2 View 2
   - image_path: /uploads/img-5750.jpg
     image_title: DR/A4  Deep Bowl  'Sun, Moon and Stars'
     image_description: >-
       Terra-sigillata Deep Bowl: 'Sun, Moon and Stars'. Mottled interior.
       Height: 22 cm.
 
-      Diameter across the rim: 19.5 cm. Price in GBP: £2000.00
+      Diameter across the rim: 19.5 cm. Price in GBP: £1950.00
   - image_path: /uploads/img-5751.jpg
     image_title: DR/A4  'Sun, Moon and Stars' View 2
     image_description: Terra-sigillata Deep Bowl. 'Sun, Moon and Stars'  View  2
