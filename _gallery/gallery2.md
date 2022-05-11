@@ -1,9 +1,12 @@
 ---
 title: New Work
-description_markdown: |-
-  Selected work available now.
+description_markdown: >-
+  Selected work available now. Unless otherwise mentioned all work is available
+  from my studio.
+
 
   Open thumbnails for expanded view and details.
+
 
   If you would like further information please see the [Contact](/contact) page.
 _gallery_date: 2016-05-01 00:00:00
@@ -12,7 +15,9 @@ main_image_path:
 images:
   - image_path: /uploads/img-6477.JPG
     image_title: DR/B1 Small Bowl
-    image_description: 'DR/B1 Small Bowl. Height: 13 cm. Price: £350.00'
+    image_description: >-
+      DR/B1 Small Bowl. Height: 13 cm. This piece available from Contemporary
+      Ceramics Centre, London, UK
   - image_path: /uploads/img-6478.JPG
     image_title: DR/B1 View 2
     image_description: DR/B1 View 2
@@ -24,7 +29,9 @@ images:
     image_description: DR/B2 View 2
   - image_path: /uploads/img-6466.JPG
     image_title: 'DR/B5  Bowl. '
-    image_description: 'DR/B5 Bowl. Height: 15.5 cm. Price: £790.00'
+    image_description: >-
+      DR/B5 Bowl. Height: 15.5 cm. This piece available from Contemporary
+      Ceramics Centre, London, UK
   - image_path: /uploads/img-6467.JPG
     image_title: DR/B5 View 2
     image_description: DR/B5 View 2
@@ -36,7 +43,9 @@ images:
     image_description: DR/B4
   - image_path: /uploads/img-6463.JPG
     image_title: DR/B6 Bowl
-    image_description: 'DR/B6 Bowl. Height: 18 cm. Price in GBP: £850.00'
+    image_description: >-
+      DR/B6 Bowl. Height: 18 cm. This piece available from Contemporary Ceramics
+      Centre, London, UK
   - image_path: /uploads/img-6462.JPG
     image_title: DR/B6 View 2
     image_description: DR/B6 View 2
@@ -44,7 +53,7 @@ images:
     image_title: DR/B17  Small Bowl Floating Seeds
     image_description: >-
       DR/B17. Terra-sigillata Small Bowl. 'Floating Seeds'  Height: 14 cm. Price
-      in GBP: £330.00
+      in GBP: £350.00
   - image_path: /uploads/img-6435-1.JPG
     image_title: DR/B17  Small Bowl  View 2
     image_description: DR/B17 Terra-sigillata Small Bowl View 2
