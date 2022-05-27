@@ -21,12 +21,6 @@ images:
   - image_path: /uploads/img-6478.JPG
     image_title: DR/B1 View 2
     image_description: DR/B1 View 2
-  - image_path: /uploads/img-6473.JPG
-    image_title: DR/B2  Bowl
-    image_description: 'DR/B2 Bowl. Height:12.5 cm. Price: £450.00'
-  - image_path: /uploads/img-6472.JPG
-    image_title: DR/B2 View 2
-    image_description: DR/B2 View 2
   - image_path: /uploads/img-6466.JPG
     image_title: 'DR/B5  Bowl. '
     image_description: >-
@@ -35,12 +29,6 @@ images:
   - image_path: /uploads/img-6467.JPG
     image_title: DR/B5 View 2
     image_description: DR/B5 View 2
-  - image_path: /uploads/img-6465.JPG
-    image_title: DR/B4 Bowl
-    image_description: 'DR/B4 Bowl. Height: 17.5 cm. Price: £850.00'
-  - image_path: /uploads/img-6464.JPG
-    image_title: DR/B4  Bowl View 2
-    image_description: DR/B4
   - image_path: /uploads/img-6463.JPG
     image_title: DR/B6 Bowl
     image_description: >-
@@ -49,6 +37,18 @@ images:
   - image_path: /uploads/img-6462.JPG
     image_title: DR/B6 View 2
     image_description: DR/B6 View 2
+  - image_path: /uploads/img-6473.JPG
+    image_title: DR/B2  Bowl
+    image_description: 'DR/B2 Bowl. Height:12.5 cm. Price: £450.00'
+  - image_path: /uploads/img-6472.JPG
+    image_title: DR/B2 View 2
+    image_description: DR/B2 View 2
+  - image_path: /uploads/img-6465.JPG
+    image_title: DR/B4 Bowl
+    image_description: 'DR/B4 Bowl. Height: 17.5 cm. Price: £850.00'
+  - image_path: /uploads/img-6464.JPG
+    image_title: DR/B4  Bowl View 2
+    image_description: DR/B4
   - image_path: /uploads/img-6433-1.JPG
     image_title: DR/B17  Small Bowl Floating Seeds
     image_description: >-
@@ -57,28 +57,6 @@ images:
   - image_path: /uploads/img-6435-1.JPG
     image_title: DR/B17  Small Bowl  View 2
     image_description: DR/B17 Terra-sigillata Small Bowl View 2
-  - image_path: /uploads/img-6441.JPG
-    image_title: DR/B20 Terra-sigillata Bowl
-    image_description: |-
-      DR/B20 Terra-sigillata Bowl. Mottled interior. Height: 17.5 cm. 
-      Price in GBP: £620.00
-  - image_path: /uploads/img-6442.JPG
-    image_title: DR/B20 View 2
-    image_description: DR/B20 View 2
-  - image_path: /uploads/img-6450.JPG
-    image_title: 'DR/B30 Dark Bowl. '
-    image_description: 'DR/B30 Terra-sigillata dark bowl. Height: 14 cm. SOLD'
-  - image_path: /uploads/img-6451.JPG
-    image_title: DR/B30 View 2
-    image_description: DR/B30 View 2
-  - image_path: /uploads/img-6247.jpg
-    image_title: DR/B4 Terra-sigillata Balancing bowl
-    image_description: >-
-      DR/B4  Terra-sigillata balancing bowl, mottled interior. Textile ring
-      supplied. Height: 12 cm. Price GBP: £350.00
-  - image_path: /uploads/img-6250.jpg
-    image_title: DR/B4  View 2
-    image_description: DR/B4 View 2
   - image_path: /uploads/img-5750.jpg
     image_title: DR/A4  Deep Bowl  'Sun, Moon and Stars'
     image_description: >-
