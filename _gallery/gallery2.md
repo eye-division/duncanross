@@ -1,11 +1,14 @@
 ---
 title: New Work
 description_markdown: >-
-  Selected work available now. Unless otherwise mentioned all work is available
-  from my studio.
+  Selected work available now. &nbsp; Bowls numbered DR/B1, B5 and B6 are
+  available at Contemporary Ceramics, Russell Square, London.
+  &nbsp;[https://www.contemporaryceramics.uk](https://www.contemporaryceramics.uk)&nbsp;
+  &nbsp;for details. &nbsp; All other &nbsp;new work is available from my
+  studio.
 
 
-  Open thumbnails for expanded view and details.
+  Please open thumbnails for expanded view and details including price.
 
 
   If you would like further information please see the [Contact](/contact) page.
