@@ -38,12 +38,6 @@ images:
   - image_path: /uploads/img-6472.JPG
     image_title: DR/B2 View 2
     image_description: DR/B2 View 2
-  - image_path: /uploads/img-6465.JPG
-    image_title: DR/B4 Bowl
-    image_description: 'DR/B4 Bowl. Height: 17.5 cm. Price: £850.00'
-  - image_path: /uploads/img-6464.JPG
-    image_title: DR/B4  Bowl View 2
-    image_description: DR/B4
   - image_path: /uploads/img-6433-1.JPG
     image_title: DR/B17  Small Bowl Floating Seeds
     image_description: >-
