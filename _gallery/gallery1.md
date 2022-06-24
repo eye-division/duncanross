@@ -12,7 +12,7 @@ images:
     image_title: Small bowl
     image_description: 14cm
   - image_path: /assets/images/4b124cab70ae4.jpg
-    image_title: 'Vase Form. ''Sun, Moon and Stars'''
+    image_title: Vase Form. 'Sun, Moon and Stars'
     image_description: 21cm
   - image_path: /uploads/img-0021.jpg
     image_title:
@@ -27,7 +27,7 @@ images:
     image_title: DR/F3
     image_description:
   - image_path: /assets/images/4b124d14b6e1b.jpg
-    image_title: 'Vase Form, ''Kite Tails'''
+    image_title: Vase Form, 'Kite Tails'
     image_description: 25cm
   - image_path: /assets/images/501a96d73c447.jpg
     image_title: DR/H28
@@ -47,17 +47,14 @@ images:
   - image_path: /assets/images/501a973a33c9c.jpg
     image_title: IMG_0438
     image_description:
-  - image_path: /assets/images/501a987aa8de5.jpg
-    image_title: '5678'
-    image_description:
-  - image_path: /uploads/img-0047.jpg
-    image_title: IMG_0450
-    image_description:
   - image_path: /assets/images/501a97f2146a3.jpg
     image_title: IMG_1082
     image_description:
   - image_path: /assets/images/501a9a50eb30c.jpg
     image_title: IMG_1071
+    image_description:
+  - image_path: /assets/images/501a987aa8de5.jpg
+    image_title: '5678'
     image_description:
   - image_path: /assets/images/5036528f8c66d.jpg
     image_title: DR-G11
@@ -148,4 +145,3 @@ _comments:
   images: Add and edit your gallery images here
   image_description: May only be used in the close up of an image
 ---
-
