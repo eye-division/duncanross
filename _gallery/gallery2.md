@@ -16,46 +16,9 @@ _gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/new-work/
 main_image_path:
 images:
-  - image_path: /uploads/img-6466.JPG
-    image_title: 'DR/B5  Bowl. '
-    image_description: >-
-      DR/B5 Bowl. Height: 15.5 cm. This piece available from Contemporary
-      Ceramics Centre, London, UK
-  - image_path: /uploads/img-6467.JPG
-    image_title: DR/B5 View 2
-    image_description: DR/B5 View 2
-  - image_path: /uploads/img-6463.JPG
-    image_title: DR/B6 Bowl
-    image_description: >-
-      DR/B6 Bowl. Height: 18 cm. This piece available from Contemporary Ceramics
-      Centre, London, UK
-  - image_path: /uploads/img-6462.JPG
-    image_title: DR/B6 View 2
-    image_description: DR/B6 View 2
-  - image_path: /uploads/img-6473.JPG
-    image_title: DR/B2  Bowl
-    image_description: 'DR/B2 Bowl. Height:12.5 cm. Price: £450.00'
-  - image_path: /uploads/img-6472.JPG
-    image_title: DR/B2 View 2
-    image_description: DR/B2 View 2
-  - image_path: /uploads/img-6433-1.JPG
-    image_title: DR/B17  Small Bowl Floating Seeds
-    image_description: >-
-      DR/B17. Terra-sigillata Small Bowl. 'Floating Seeds'  Height: 14 cm. Price
-      in GBP: £350.00
-  - image_path: /uploads/img-6435-1.JPG
-    image_title: DR/B17  Small Bowl  View 2
-    image_description: DR/B17 Terra-sigillata Small Bowl View 2
-  - image_path: /uploads/img-5750.jpg
-    image_title: DR/A4  Deep Bowl  'Sun, Moon and Stars'
-    image_description: >-
-      Terra-sigillata Deep Bowl: 'Sun, Moon and Stars'. Mottled interior.
-      Height: 22 cm.
-
-      Diameter across the rim: 19.5 cm. Price in GBP: £1950.00
   - image_path: /uploads/img-5751.jpg
     image_title: DR/A4  'Sun, Moon and Stars' View 2
-    image_description: Terra-sigillata Deep Bowl. 'Sun, Moon and Stars'  View  2
+    image_description:
 display_title: true
 cols: 2
 _options:
