@@ -50,7 +50,8 @@ defaults:
 
 
 # Google analytics
-ga_tracking_id: "UA-16735011-7"
+#ga_tracking_id: "UA-16735011-7"
+ga_tracking_id: "G-6H0C6NXDSK"
 
 # Google Recaptcha for contact form
 # recaptcha_site_key: 6Ld_UCsUAAAAAOff_4JE6Uq5ZfKicBMZefuoaQsD
