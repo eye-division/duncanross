@@ -1,10 +1,10 @@
 ---
 title: New Work
 description_markdown: >-
-  New Work available from the studio will be added shortly.
+  I now have a selection of new and recent pieces available. &nbsp;
 
 
-  Some pieces are available through
+  Some work is also available through available through
   [www.contemporaryceramics.uk](www.contemporaryceramics.uk){: target="_blank"
   rel="noopener"}
 
@@ -15,11 +15,22 @@ description_markdown: >-
   If you would like further information please see the [Contact](/contact) page.
 _gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/new-work/
-main_image_path:
+main_image_path: /uploads/img-5751-1.jpg
 images:
   - image_path: /uploads/img-5751.jpg
-    image_title: DR/A4  'Sun, Moon and Stars' View 2
-    image_description:
+    image_title: DR/A4  'Sun, Moon and Stars' Vessel Form. RESERVED
+    image_description: DR/A4 "Sun, Moon and Stars"  Mottled interior.   RESERVED
+  - image_path: /uploads/img-5750-1.jpg
+    image_title: DR/A4 Sun, Moon and Stars. View 2
+    image_description: DR/A4 Sun, Moon and Stars. View 2  RESERVED
+  - image_path: /uploads/img-6958.jpg
+    image_title: 'DR/M3 Terra-sigillata Bowl Form. '
+    image_description: >-
+      DR/M3 Terra-sigillata Bowl Form . Height: 18 cm.  Mottled interior. Price
+      in GBP: £1200.00
+  - image_path: /uploads/img-6962.jpg
+    image_title: DR/M3 Terra-sigillata Bowl Form View 2.
+    image_description: DR/M3 Terra-sigillata Bowl Form View 2.
 display_title: true
 cols: 2
 _options:
