@@ -1,7 +1,8 @@
 ---
 title: New Work
 description_markdown: >-
-  I now have a selection of new and recent pieces available. &nbsp;
+  I now have a selection of new and recent pieces available. &nbsp;All my pieces
+  have my maker's mark inscribed on or near the base.&nbsp;
 
 
   Some work is also available through available through
@@ -31,6 +32,22 @@ images:
   - image_path: /uploads/img-6962.jpg
     image_title: DR/M3 Terra-sigillata Bowl Form View 2.
     image_description: DR/M3 Terra-sigillata Bowl Form View 2.
+  - image_path: /uploads/img-7100.jpg
+    image_title: 'DR/N1 Terra-sigillata Bowl Form. '
+    image_description: >-
+      DR/N1 Terra-sigillata Bowl Form. Mottled interior. Height: 16.5 cm.  Price
+      in GBP: £1200.00
+  - image_path: /uploads/img-7102.jpg
+    image_title: DR/N1 Terra-sigillata Bowl Form View 2
+    image_description: DR/N1 Terra-sigillata Bowl Form. Mottled Interior. View 2.
+  - image_path: /uploads/img-7154.jpg
+    image_title: DR/M4 Terra-sigillata Bowl Form on Raised Foot
+    image_description: >-
+      DR/M4 Terra-sigillata Bowl Form on Raised Foot.  Mottled interior. Height:
+      19.5 cm. Price in GBP: £850.00
+  - image_path: /uploads/img-7155.jpg
+    image_title: DR/M4 Terra-sigillata Bowl Form on Raised Foot. View 2
+    image_description: DR/M4 Terra-sigillata Bowl Form on Raised Foot view 2.
 display_title: true
 cols: 2
 _options:
