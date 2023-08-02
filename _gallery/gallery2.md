@@ -56,11 +56,6 @@ images:
   - image_path: /uploads/f921d779-b511-48d2-a536-e104259ce57c-1-105-c.jpg
     image_title: DR/M1. View 2.
     image_description: DR/M1 View 2.
-  - image_path: /uploads/32fe9c63-d1b0-453e-9b52-4e06ef108913-1-105-c.jpg
-    image_title: DR/M5 Kite Tails, Terra-sigillata Vessel Form.
-    image_description: >-
-      DR/M5  Kite Tails, Terra-sigillata Vessel Form. Mottled interior. Height:
-      21.5 cm. Price in GBP: £950.00
   - image_path: /uploads/c5435907-69fc-4d5c-92c5-d02fdeea684c-1-105-c.jpg
     image_title: DR/M2 Tall Terra-sigillata Form
     image_description: >-
@@ -69,6 +64,22 @@ images:
   - image_path: /uploads/8e840e4f-02a3-470f-8140-185889240710-1-105-c.jpg
     image_title: DR/M2 View 2
     image_description: DR/M2 View 2
+  - image_path: /uploads/32fe9c63-d1b0-453e-9b52-4e06ef108913-1-105-c.jpg
+    image_title: DR/M5 Kite Tails, Terra-sigillata Vessel Form.
+    image_description: >-
+      DR/M5  Kite Tails, Terra-sigillata Vessel Form. Mottled interior. Height:
+      21.5 cm. Price in GBP: £950.00
+  - image_path: /uploads/98e98ab0-55e9-4d26-aacd-64c0f3070bb3-1-105-c-1.jpg
+    image_title: DR/M5 View 2
+    image_description: DR/M5 Kite Tails   View 2
+  - image_path: /uploads/e40d2092-303a-4cbf-8108-bb0bb089a4dc-1-105-c.jpg
+    image_title: 'DR/C17 Terra-sigillata Balanced Form. '
+    image_description: >-
+      DR/C17 Terra-sigillata Balanced Form. Mottled interior. Height (length)
+      Rim to Point. 18 cm. Price in GBP: £690.00
+  - image_path: /uploads/90f5064d-ec0c-47a4-b758-e6fe18e54385-1-105-c.jpg
+    image_title: DR/C17 View 2
+    image_description: DR/C17 Balancing Form View 2.
 display_title: true
 cols: 2
 _options:
