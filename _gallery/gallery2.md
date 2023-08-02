@@ -19,8 +19,8 @@ permalink: /gallery/new-work/
 main_image_path: /uploads/img-5751-1.jpg
 images:
   - image_path: /uploads/img-5751.jpg
-    image_title: DR/A4  Sun, Moon and Stars Vessel Form. RESERVED
-    image_description: DR/A4 Sun, Moon and Stars,  Mottled interior.   RESERVED
+    image_title: DR/A4  'Sun, Moon and Stars' Vessel Form. RESERVED
+    image_description: DR/A4 "Sun, Moon and Stars"  Mottled interior.   RESERVED
   - image_path: /uploads/img-5750-1.jpg
     image_title: DR/A4 Sun, Moon and Stars. View 2
     image_description: DR/A4 Sun, Moon and Stars. View 2  RESERVED
@@ -48,6 +48,9 @@ images:
   - image_path: /uploads/img-7155.jpg
     image_title: DR/M4 Terra-sigillata Bowl Form on Raised Foot. View 2
     image_description: DR/M4 Terra-sigillata Bowl Form on Raised Foot view 2.
+  - image_path: /uploads/dr-a4-2.jpg
+    image_title: TEST
+    image_description: ''
 display_title: true
 cols: 2
 _options:
