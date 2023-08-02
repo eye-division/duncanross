@@ -66,6 +66,9 @@ images:
     image_description: >-
       DR/M2 Tall Terra-sigillata Form. Mottled interior. Height: 25 cm. Price in
       GBP: £850.00
+  - image_path: /uploads/8e840e4f-02a3-470f-8140-185889240710-1-105-c.jpg
+    image_title: DR/M2 View 2
+    image_description: DR/M2 View 2
 display_title: true
 cols: 2
 _options:
