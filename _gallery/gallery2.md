@@ -80,6 +80,14 @@ images:
   - image_path: /uploads/90f5064d-ec0c-47a4-b758-e6fe18e54385-1-105-c.jpg
     image_title: DR/C17 View 2
     image_description: DR/C17 Balancing Form View 2.
+  - image_path: /uploads/8d69ef87-b413-4933-b600-29d5f920af41-1-105-c.jpg
+    image_title: 'DR/N2 Terra-sigillata Bowl. '
+    image_description: >-
+      DR/N2 Terra-sigillata Bowl Form. Mottled interior. Height: 12.5 cm. Price
+      in GBP: £490.00
+  - image_path: /uploads/b05a4a4b-2117-45ca-a221-1c4843dedfbd-1-105-c.jpg
+    image_title: DR/N2 View 2.
+    image_description: DR/N2 Terra-sigillata Bowl.  View 2
 display_title: true
 cols: 2
 _options:
