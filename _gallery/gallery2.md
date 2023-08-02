@@ -1,10 +1,11 @@
 ---
 title: New Work
 description_markdown: >-
-  New Work available from the studio will be added shortly.
+  I now have a selection of new and recent pieces available. All my pieces have
+  my maker's mark inscribed on or near the base.
 
 
-  Some pieces are available through
+  Some work is also available through available through
   [www.contemporaryceramics.uk](www.contemporaryceramics.uk){: target="_blank"
   rel="noopener"}
 
@@ -15,11 +16,78 @@ description_markdown: >-
   If you would like further information please see the [Contact](/contact) page.
 _gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/new-work/
-main_image_path:
+main_image_path: /uploads/img-5751-1.jpg
 images:
   - image_path: /uploads/img-5751.jpg
-    image_title: DR/A4  'Sun, Moon and Stars' View 2
-    image_description:
+    image_title: DR/A4  'Sun, Moon and Stars' Vessel Form. RESERVED
+    image_description: DR/A4 "Sun, Moon and Stars"  Mottled interior.   RESERVED
+  - image_path: /uploads/img-5750-1.jpg
+    image_title: DR/A4 Sun, Moon and Stars. View 2
+    image_description: DR/A4 Sun, Moon and Stars. View 2  RESERVED
+  - image_path: /uploads/img-6958.jpg
+    image_title: 'DR/M3 Terra-sigillata Bowl Form. '
+    image_description: >-
+      DR/M3 Terra-sigillata Bowl Form . Height: 18 cm.  Mottled interior. Price
+      in GBP: £1200.00
+  - image_path: /uploads/img-6962.jpg
+    image_title: DR/M3 Terra-sigillata Bowl Form View 2.
+    image_description: DR/M3 Terra-sigillata Bowl Form View 2.
+  - image_path: /uploads/img-7100.jpg
+    image_title: 'DR/N1 Terra-sigillata Bowl Form. '
+    image_description: >-
+      DR/N1 Terra-sigillata Bowl Form. Mottled interior. Height: 16.5 cm.  Price
+      in GBP: £1200.00
+  - image_path: /uploads/img-7102.jpg
+    image_title: DR/N1 Terra-sigillata Bowl Form View 2
+    image_description: DR/N1 Terra-sigillata Bowl Form. Mottled Interior. View 2.
+  - image_path: /uploads/img-7154.jpg
+    image_title: DR/M4 Terra-sigillata Bowl Form on Raised Foot
+    image_description: >-
+      DR/M4 Terra-sigillata Bowl Form on Raised Foot.  Mottled interior. Height:
+      19.5 cm. Price in GBP: £850.00
+  - image_path: /uploads/img-7155.jpg
+    image_title: DR/M4 View 2
+    image_description: DR/M4  Terra-sigillata Bowl Form on Raised Foot. View 2
+  - image_path: /uploads/1594dc47-67bb-4c96-b5db-ba9799a321af-1-105-c.jpg
+    image_title: DR/M1 Terra-sigillata Bowl.
+    image_description: >-
+      DR/M1 Terra-sigillata Bowl. Mottled interior. Height: 11.5 cm. Price in
+      GBP: £630.00
+  - image_path: /uploads/f921d779-b511-48d2-a536-e104259ce57c-1-105-c.jpg
+    image_title: DR/M1. View 2.
+    image_description: DR/M1 View 2.
+  - image_path: /uploads/c5435907-69fc-4d5c-92c5-d02fdeea684c-1-105-c.jpg
+    image_title: DR/M2 Tall Terra-sigillata Form
+    image_description: >-
+      DR/M2 Tall Terra-sigillata Form. Mottled interior. Height: 25 cm. Price in
+      GBP: £850.00
+  - image_path: /uploads/8e840e4f-02a3-470f-8140-185889240710-1-105-c.jpg
+    image_title: DR/M2 View 2
+    image_description: DR/M2 View 2
+  - image_path: /uploads/32fe9c63-d1b0-453e-9b52-4e06ef108913-1-105-c.jpg
+    image_title: DR/M5 Kite Tails, Terra-sigillata Vessel Form.
+    image_description: >-
+      DR/M5  Kite Tails, Terra-sigillata Vessel Form. Mottled interior. Height:
+      21.5 cm. Price in GBP: £950.00
+  - image_path: /uploads/98e98ab0-55e9-4d26-aacd-64c0f3070bb3-1-105-c-1.jpg
+    image_title: DR/M5 View 2
+    image_description: DR/M5 Kite Tails   View 2
+  - image_path: /uploads/e40d2092-303a-4cbf-8108-bb0bb089a4dc-1-105-c.jpg
+    image_title: 'DR/C17 Terra-sigillata Balanced Form. '
+    image_description: >-
+      DR/C17 Terra-sigillata Balanced Form. Mottled interior. Height (length)
+      Rim to Point. 18 cm. Price in GBP: £690.00
+  - image_path: /uploads/90f5064d-ec0c-47a4-b758-e6fe18e54385-1-105-c.jpg
+    image_title: DR/C17 View 2
+    image_description: DR/C17 Balancing Form View 2.
+  - image_path: /uploads/8d69ef87-b413-4933-b600-29d5f920af41-1-105-c.jpg
+    image_title: 'DR/N2 Terra-sigillata Bowl. '
+    image_description: >-
+      DR/N2 Terra-sigillata Bowl Form. Mottled interior. Height: 12.5 cm. Price
+      in GBP: £490.00
+  - image_path: /uploads/b05a4a4b-2117-45ca-a221-1c4843dedfbd-1-105-c.jpg
+    image_title: DR/N2 View 2.
+    image_description: DR/N2 Terra-sigillata Bowl.  View 2
 display_title: true
 cols: 2
 _options:
