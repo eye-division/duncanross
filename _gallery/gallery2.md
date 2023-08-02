@@ -48,9 +48,24 @@ images:
   - image_path: /uploads/img-7155.jpg
     image_title: DR/M4 Terra-sigillata Bowl Form on Raised Foot. View 2
     image_description: DR/M4 Terra-sigillata Bowl Form on Raised Foot view 2.
-  - image_path: ''
-    image_title: ''
-    image_description: ''
+  - image_path: /uploads/1594dc47-67bb-4c96-b5db-ba9799a321af-1-105-c.jpg
+    image_title: DR/M1 Terra-sigillata Bowl.
+    image_description: >-
+      DR/M1 Terra-sigillata Bowl. Mottled interior. Height: 11.5 cm. Price in
+      GBP: £630.00
+  - image_path: /uploads/f921d779-b511-48d2-a536-e104259ce57c-1-105-c.jpg
+    image_title: DR/M1. View 2.
+    image_description: DR/M1 View 2.
+  - image_path: /uploads/32fe9c63-d1b0-453e-9b52-4e06ef108913-1-105-c.jpg
+    image_title: DR/M5 Kite Tails, Terra-sigillata Vessel Form.
+    image_description: >-
+      DR/M5  Kite Tails, Terra-sigillata Vessel Form. Mottled interior. Height:
+      21.5 cm. Price in GBP: £950.00
+  - image_path: /uploads/c5435907-69fc-4d5c-92c5-d02fdeea684c-1-105-c.jpg
+    image_title: DR/M2 Tall Terra-sigillata Form
+    image_description: >-
+      DR/M2 Tall Terra-sigillata Form. Mottled interior. Height: 25 cm. Price in
+      GBP: £850.00
 display_title: true
 cols: 2
 _options:
