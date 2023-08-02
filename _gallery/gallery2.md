@@ -46,8 +46,8 @@ images:
       DR/M4 Terra-sigillata Bowl Form on Raised Foot.  Mottled interior. Height:
       19.5 cm. Price in GBP: £850.00
   - image_path: /uploads/img-7155.jpg
-    image_title: DR/M4 Terra-sigillata Bowl Form on Raised Foot. View 2
-    image_description: DR/M4 Terra-sigillata Bowl Form on Raised Foot view 2.
+    image_title: DR/M4 View 2
+    image_description: DR/M4  Terra-sigillata Bowl Form on Raised Foot. View 2
   - image_path: /uploads/1594dc47-67bb-4c96-b5db-ba9799a321af-1-105-c.jpg
     image_title: DR/M1 Terra-sigillata Bowl.
     image_description: >-
