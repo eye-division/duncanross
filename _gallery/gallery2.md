@@ -1,8 +1,8 @@
 ---
 title: New Work
 description_markdown: >-
-  I now have a selection of new and recent pieces available. &nbsp;All my pieces
-  have my maker's mark inscribed on or near the base.&nbsp;
+  I now have a selection of new and recent pieces available. All my pieces have
+  my maker's mark inscribed on or near the base.
 
 
   Some work is also available through available through
@@ -48,8 +48,8 @@ images:
   - image_path: /uploads/img-7155.jpg
     image_title: DR/M4 Terra-sigillata Bowl Form on Raised Foot. View 2
     image_description: DR/M4 Terra-sigillata Bowl Form on Raised Foot view 2.
-  - image_path: /uploads/dr-a4-2.jpg
-    image_title: TEST
+  - image_path: ''
+    image_title: ''
     image_description: ''
 display_title: true
 cols: 2
