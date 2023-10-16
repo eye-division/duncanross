@@ -19,8 +19,8 @@ permalink: /gallery/new-work/
 main_image_path: /uploads/img-5751-1.jpg
 images:
   - image_path: /uploads/img-5751.jpg
-    image_title: DR/A4  'Sun, Moon and Stars' Vessel Form. RESERVED
-    image_description: DR/A4 "Sun, Moon and Stars"  Mottled interior.   RESERVED
+    image_title: DR/A4  'Sun, Moon and Stars' Vessel Form.
+    image_description: 'DR/A4 "Sun, Moon and Stars"  Mottled interior.  '
   - image_path: /uploads/img-5750-1.jpg
     image_title: DR/A4 Sun, Moon and Stars. View 2
     image_description: DR/A4 Sun, Moon and Stars. View 2  RESERVED
