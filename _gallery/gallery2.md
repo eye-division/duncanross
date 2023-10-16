@@ -19,8 +19,8 @@ permalink: /gallery/new-work/
 main_image_path: /uploads/img-5751-1.jpg
 images:
   - image_path: /uploads/img-5751.jpg
-    image_title: DR/A4  'Sun, Moon and Stars' Vessel Form. RESERVED
-    image_description: DR/A4 "Sun, Moon and Stars"  Mottled interior.   RESERVED
+    image_title: DR/A4  'Sun, Moon and Stars' Vessel Form.
+    image_description: 'DR/A4 "Sun, Moon and Stars"  Mottled interior.  '
   - image_path: /uploads/img-5750-1.jpg
     image_title: DR/A4 Sun, Moon and Stars. View 2
     image_description: DR/A4 Sun, Moon and Stars. View 2  RESERVED
@@ -64,14 +64,6 @@ images:
   - image_path: /uploads/8e840e4f-02a3-470f-8140-185889240710-1-105-c.jpg
     image_title: DR/M2 View 2
     image_description: DR/M2 View 2
-  - image_path: /uploads/32fe9c63-d1b0-453e-9b52-4e06ef108913-1-105-c.jpg
-    image_title: DR/M5 Kite Tails, Terra-sigillata Vessel Form.
-    image_description: >-
-      DR/M5  Kite Tails, Terra-sigillata Vessel Form. Mottled interior. Height:
-      21.5 cm. Price in GBP: £950.00
-  - image_path: /uploads/98e98ab0-55e9-4d26-aacd-64c0f3070bb3-1-105-c-1.jpg
-    image_title: DR/M5 View 2
-    image_description: DR/M5 Kite Tails   View 2
   - image_path: /uploads/e40d2092-303a-4cbf-8108-bb0bb089a4dc-1-105-c.jpg
     image_title: 'DR/C17 Terra-sigillata Balanced Form. '
     image_description: >-
@@ -104,6 +96,12 @@ images:
   - image_path: /uploads/71d1de7b-455d-4204-b9c0-70e51373b28f-1-105-c.jpg
     image_title: DR/C2 Dark  Bowl View 2
     image_description: DR/C2 Dark  Bowl View 2
+  - image_path: ''
+    image_title:
+    image_description:
+  - image_path: ''
+    image_title:
+    image_description:
 display_title: true
 cols: 2
 _options:
