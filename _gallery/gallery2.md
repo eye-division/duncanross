@@ -10,6 +10,11 @@ description_markdown: >-
   rel="noopener"}
 
 
+  and
+  from&nbsp;[https://www.birchamgallery.co.uk](https://www.birchamgallery.co.uk){:
+  target="_blank" rel="noopener"}
+
+
   Please open thumbnail images for expanded view and details including price.
 
 
