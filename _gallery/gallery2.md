@@ -1,24 +1,6 @@
 ---
 title: New Work
-description_markdown: >-
-  I now have a selection of new and recent pieces available. All my pieces have
-  my maker's mark inscribed on or near the base.
-
-
-  Some work is also available through available through
-  [www.contemporaryceramics.uk](www.contemporaryceramics.uk){: target="_blank"
-  rel="noopener"}
-
-
-  and
-  from&nbsp;[https://www.birchamgallery.co.uk](https://www.birchamgallery.co.uk){:
-  target="_blank" rel="noopener"}
-
-
-  Please open thumbnail images for expanded view and details including price.
-
-
-  If you would like further information please see the [Contact](/contact) page.
+description_markdown: "I now have a selection of new and recent pieces available. All my pieces have my maker's mark inscribed on or near the base.\n\nSome work is also available through available through [www.contemporaryceramics.uk](www.contemporaryceramics.uk){: target=\"_blank\" rel=\"noopener\"}\n\nand from\_[https://www.birchamgallery.co.uk](https://www.birchamgallery.co.uk){: target=\"_blank\" rel=\"noopener\"}\n\nPlease open thumbnail images for expanded view and details including price.\n\nIf you would like further information please see the [Contact](/contact) page."
 _gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/new-work/
 main_image_path: /uploads/img-5751-1.jpg
@@ -37,14 +19,12 @@ images:
   - image_path: /uploads/img-6962.jpg
     image_title: DR/M3 Terra-sigillata Bowl Form View 2.
     image_description: DR/M3 Terra-sigillata Bowl Form View 2.
-  - image_path: /uploads/img-7100.jpg
-    image_title: 'DR/N1 Terra-sigillata Bowl Form. '
-    image_description: >-
-      DR/N1 Terra-sigillata Bowl Form. Mottled interior. Height: 16.5 cm.  Price
-      in GBP: £1200.00
-  - image_path: /uploads/img-7102.jpg
-    image_title: DR/N1 Terra-sigillata Bowl Form View 2
-    image_description: DR/N1 Terra-sigillata Bowl Form. Mottled Interior. View 2.
+  - image_path:
+    image_title:
+    image_description:
+  - image_path:
+    image_title:
+    image_description:
   - image_path: /uploads/img-7154.jpg
     image_title: DR/M4 Terra-sigillata Bowl Form on Raised Foot
     image_description: >-
@@ -61,14 +41,12 @@ images:
   - image_path: /uploads/f921d779-b511-48d2-a536-e104259ce57c-1-105-c.jpg
     image_title: DR/M1. View 2.
     image_description: DR/M1 View 2.
-  - image_path: /uploads/e40d2092-303a-4cbf-8108-bb0bb089a4dc-1-105-c.jpg
-    image_title: 'DR/C17 Terra-sigillata Balanced Form. '
-    image_description: >-
-      DR/C17 Terra-sigillata Balanced Form. Mottled interior. Height (length)
-      Rim to Point. 18 cm. Price in GBP: £690.00
-  - image_path: /uploads/90f5064d-ec0c-47a4-b758-e6fe18e54385-1-105-c.jpg
-    image_title: DR/C17 View 2
-    image_description: DR/C17 Balancing Form View 2.
+  - image_path:
+    image_title:
+    image_description:
+  - image_path:
+    image_title:
+    image_description:
   - image_path: /uploads/8d69ef87-b413-4933-b600-29d5f920af41-1-105-c.jpg
     image_title: 'DR/N2 Terra-sigillata Bowl. '
     image_description: >-
