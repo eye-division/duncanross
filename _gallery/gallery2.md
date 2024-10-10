@@ -30,7 +30,7 @@ images:
     image_title: DR/A4 Sun, Moon and Stars. View 2
     image_description: DR/A4 Sun, Moon and Stars. View 2  RESERVED
   - image_path: /uploads/img-6958.jpg
-    image_title: 'DR/M3 Terra-sigillata Bowl Form. '
+    image_title: DR/M3 Terra-sigillata Bowl Form. SOLD
     image_description: >-
       DR/M3 Terra-sigillata Bowl Form . Height: 18 cm.  Mottled interior. Price
       in GBP:   SOLD
@@ -44,7 +44,7 @@ images:
     image_title:
     image_description:
   - image_path: /uploads/img-7154.jpg
-    image_title: DR/M4 Terra-sigillata Bowl Form on Raised Foot
+    image_title: DR/M4 Terra-sigillata Bowl Form on Raised Foot  SOLD
     image_description: >-
       DR/M4 Terra-sigillata Bowl Form on Raised Foot.  Mottled interior. Height:
       19.5 cm. Price in GBP:     SOLD
@@ -58,7 +58,7 @@ images:
     image_title:
     image_description:
   - image_path: /uploads/8d69ef87-b413-4933-b600-29d5f920af41-1-105-c.jpg
-    image_title: 'DR/N2 Terra-sigillata Bowl. '
+    image_title: DR/N2 Terra-sigillata Bowl. SOLD
     image_description: >-
       DR/N2 Terra-sigillata Bowl Form. Mottled interior. Height: 12.5 cm. Price
       in GBP: SOLD
