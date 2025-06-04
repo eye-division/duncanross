@@ -6,22 +6,6 @@
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
-  
-
-  {% if site.ga_tracking_id and jekyll.environment == 'production' %}
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.ga_tracking_id }}"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-
-    gtag('config', '{{ site.ga_tracking_id }}', {
-      'page_title': '{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}',
-      'page_path': '{{ page.url }}'
-    });
-  </script>
-  {% endif %}
 
   {% if site.name %}
   <meta name="author" content="{{ site.name }}">
@@ -66,22 +50,6 @@
   <meta property="og:image:height" content="{{ site.protocols.fb_image_height }}" />
   {% endif %}
 
-  {% if site.protocols.twitter_image %}
-  <!-- Twitter: card tags -->
-  <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
-  <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
-  <meta name="twitter:image" content="{% if page.cover %}{{ page.cover | prepend: site.baseurl | prepend: site.url }}{% else %}{{ site.protocols.twitter_image | prepend: site.baseurl | prepend: site.url }}{% endif %}">
-  <meta name="twitter:url" content="{{ site.url }}">
-  {% endif %}
-
-  {% if protocols.os_repo and protocols.os_rcs_type and protocols.os_src %}
-  <!-- Open Source Protocol -->
-  <link rel="profile" href="http://osprotocol.com" />
-  <meta property="os:repo" content="{{ protocols.os_repo }}" />
-  <meta property="os:rcs_type" content="{{ protocols.os_rcs_type }}" />
-  <meta property="os:src" content="{{ protocols.os_src }}" />
-  {% endif %}
 
   {% include svg/symbol-defs.svg %}
 
