@@ -1,5 +1,5 @@
 ---
-title: New Work
+title: Work for Sale
 description_markdown: >-
   Over many years, ceramics became a way of thinking as much as making for me —
   a long conversation with clay, surface, touch, and form. My exploration of
