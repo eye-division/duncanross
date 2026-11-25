@@ -35,9 +35,9 @@ permalink: /gallery/new-work/
 main_image_path: /uploads/img-9736.jpg
 images:
   - image_path: /uploads/img-9737.jpg
-    image_title: DR/R13  Terra-sigillata Bowl.
+    image_title: DR/R13  Large Terra-sigillata Bowl.
     image_description: |-
-      DR/R13 Terra-sigillata Bowl. Height: 20 cm.  Mottled interior.
+      DR/R13 Large Terra-sigillata Bowl. Height: 20 cm.  Mottled interior.
       Price in GBP: £2800.00
   - image_path: /uploads/img-9736-2.jpg
     image_title: DR/R13. View 2
@@ -49,6 +49,13 @@ images:
   - image_path: /uploads/img-9670.jpg
     image_title: DR/B11 View 2
     image_description: DR/B11 View 2
+  - image_path: /uploads/img-9536-2.jpg
+    image_title: DR/J15 Dark Terra-sigillata Bowl.
+    image_description: 'DR/J15 Dark Terra-sigillata Bowl with mottled interior.
+      Height: 18.5 cm. Price: £1200.00'
+  - image_path: /uploads/img-9537-2.jpg
+    image_title: DR/J15 View 2
+    image_description: DR/J15 View 2
   - image_path: /uploads/img-9671.jpg
     image_title: DR/A64 Terra-sigillata Bowl
     image_description: 'DR/A64 Terra-sigillata Bowl. Height: 13 cm. Mottled
@@ -116,13 +123,6 @@ images:
   - image_path: /uploads/img-9744-3-2.jpg
     image_title: DR/B7 View 2
     image_description: DR/B7 View 2
-  - image_path: /uploads/img-9536-2.jpg
-    image_title: DR/J15 Dark Terra-sigillata Bowl.
-    image_description: 'DR/J15 Dark Terra-sigillata Bowl with mottled interior.
-      Height: 18.5 cm. Price: £1200.00'
-  - image_path: /uploads/img-9537-2.jpg
-    image_title: DR/J15 View 2
-    image_description: DR/J15 View 2
 display_title: false
 cols: 2
 _options:
