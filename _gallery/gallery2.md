@@ -25,8 +25,8 @@ description_markdown: >-
 
 
   &nbsp;I established my studio workshop in Farnham in 1988. Over the years  of
-  making I have kept a number of pieces for my personal collection as a source
-  of reference and a selection of these are now offered for sale.
+  making I have kept a number of pieces for my personal collection and as a
+  source of reference. A selection of these is now offered for sale.
 
 
   &nbsp;
@@ -113,9 +113,16 @@ images:
     image_description: |-
       DR/B7 Terra-sigillata Vessel Form with mottled interior. Height: 17.5 cm.
       Price: £520.00
-  - image_path: /uploads/img-9744-3-1.jpg
+  - image_path: /uploads/img-9744-3-2.jpg
     image_title: DR/B7 View 2
     image_description: DR/B7 View 2
+  - image_path: /uploads/img-9536-2.jpg
+    image_title: DR/J15 Dark Terra-sigillata Bowl.
+    image_description: 'DR/J15 Dark Terra-sigillata Bowl with mottled interior.
+      Height: 18.5 cm. Price: £1200.00'
+  - image_path: /uploads/img-9537-2.jpg
+    image_title: DR/J15 View 2
+    image_description: DR/J15 View 2
 display_title: false
 cols: 2
 _options:
