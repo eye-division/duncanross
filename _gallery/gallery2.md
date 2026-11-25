@@ -21,7 +21,7 @@ description_markdown: >-
   the people connected to it, have brought into my life.
 
 
-  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
+  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
 
 
   &nbsp;I established my studio workshop in Farnham in 1988. Over the years  of
@@ -101,9 +101,21 @@ images:
   - image_path: /uploads/img-9699.jpg
     image_title: DR/J5 View 2
     image_description: DR/J5 View 2
-  - image_path: ''
-    image_title: ''
-    image_description: ''
+  - image_path: /uploads/img-9757-2.jpg
+    image_title: DR/T13 Terra-sigillata Bowl.
+    image_description: 'DR/T13 Terra-sigillata Bowl with mottled interior. Height:
+      14 cm. Price £420.00'
+  - image_path: /uploads/img-9756-2.jpg
+    image_title: DR/T13  View 2
+    image_description: DR/T13 View 2.
+  - image_path: /uploads/img-9741.jpg
+    image_title: DR/B7 Terra-sigillata Vessel Form
+    image_description: |-
+      DR/B7 Terra-sigillata Vessel Form with mottled interior. Height: 17.5 cm.
+      Price: £520.00
+  - image_path: /uploads/img-9744-3-1.jpg
+    image_title: DR/B7 View 2
+    image_description: DR/B7 View 2
 display_title: false
 cols: 2
 _options:
