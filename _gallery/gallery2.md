@@ -42,10 +42,9 @@ images:
     image_description: DR/A64 View 2
   - image_path: /uploads/img-9544.jpg
     image_title: 'DR/J16 Dark Terra-sigillata Bowl. (Spinning Bowl). '
-    image_description: >-
-      DR/J16  Gently spins to emphasise the movement around the form. Height: 10
-      cm. Mottled interior. 
-
+    image_description: >2-
+       Gently spins to emphasise the movement around the form. Height: 10 cm.
+      Mottled interior. 
       Price £450.00
   - image_path: /uploads/img-9545.jpg
     image_title: DR/J16 View 2.
